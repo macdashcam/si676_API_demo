@@ -1,0 +1,1636 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "() <cite>Book room, Carnegie library, St. Joseph, Missouri</cite>. Saint Joseph Missouri,. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2007684180/.",
+    "chicago": "<cite>Book room, Carnegie library, St. Joseph, Missouri</cite>. Saint Joseph Missouri,. Photograph. https://www.loc.gov/item/2007684180/.",
+    "mla": "<cite>Book room, Carnegie library, St. Joseph, Missouri</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2007684180/&gt;."
+  },
+  "item": {
+    "_version_": 1861738429618847744,
+    "access_restricted": true,
+    "aka": [
+      "http://lccn.loc.gov/2007684180",
+      "http://www.loc.gov/item/2007684180/",
+      "https://search.catalog.loc.gov/instances/5c4d89e6-b68d-5340-939b-1f3a6daff698",
+      "https://hdl.loc.gov/loc.pnp/ppmsca.15419",
+      "http://www.loc.gov/resource/ppmsca.15419/",
+      "https://www.loc.gov/pictures/item/2007684180/",
+      "http://www.loc.gov/pictures/item/2007684180/",
+      "https://www.loc.gov/pictures/collection/cph/item/2007684180/",
+      "http://www.loc.gov/pictures/collection/cph/item/2007684180/"
+    ],
+    "call_number": [
+      "LOT 8908 [item]"
+    ],
+    "campaigns": [],
+    "control_number": "",
+    "created": "2016-04-20T12:02:47Z",
+    "created_published": [
+      "[between 1900 and 1905]"
+    ],
+    "created_published_date": "[between 1900 and 1905]",
+    "date": "1900",
+    "dates": [
+      {
+        "1900": "https://www.loc.gov/search/?dates=1900/1900&fo=json"
+      }
+    ],
+    "description": [
+      "Title devised by Library staff. On back of photograph: St. Joseph Free Lib."
+    ],
+    "digital_id": [
+      "ppmsca 15419 //hdl.loc.gov/loc.pnp/ppmsca.15419"
+    ],
+    "digitized": true,
+    "display_offsite": false,
+    "extract_timestamp": "2026-04-06T15:26:56.209Z",
+    "extract_urls": [
+      "http://lccn.loc.gov/2007684180#catalog-split-04",
+      "http://www.loc.gov/pictures/collection/cph/item/2007684180/#cph"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Photographic prints--1900-1910."
+    ],
+    "genre": [
+      "Photographic prints--1900-1910"
+    ],
+    "group": [
+      "catalog-split-04",
+      "catalog",
+      "cph",
+      "main-catalog-split-04",
+      "miscellaneous-items-high-demand"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2007684180/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15419_150px.jpg#h=122&w=150"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": [
+        "LOT 8908 [item]"
+      ],
+      "control_number": "2007684180",
+      "created": "2016-04-20T12:02:47Z",
+      "created_published": [
+        "[between 1900 and 1905]"
+      ],
+      "created_published_date": "[between 1900 and 1905]",
+      "date": "1900",
+      "digital_id": [
+        "ppmsca 15419 //hdl.loc.gov/loc.pnp/ppmsca.15419"
+      ],
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1900-1910.&co=cph",
+          "title": "Photographic prints--1900-1910."
+        }
+      ],
+      "genre": [
+        "Photographic prints--1900-1910"
+      ],
+      "id": "2007684180",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2007684180/",
+      "location": [
+        "Missouri--Saint Joseph"
+      ],
+      "marc": "https://www.loc.gov/pictures/item/2007684180/marc/",
+      "medium": [
+        "1 photographic print."
+      ],
+      "medium_brief": "1 photographic print.",
+      "mediums": [
+        "1 photographic print."
+      ],
+      "modified": "2016-04-20T12:02:48Z",
+      "notes": [
+        "Title devised by Library staff.",
+        "On back of photograph: St. Joseph Free Lib."
+      ],
+      "other_control_numbers": [
+        "15098945"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Missouri--Saint%20Joseph&co=cph",
+          "longitude": "",
+          "title": "Missouri--Saint Joseph"
+        }
+      ],
+      "repository": [
+        "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA dcu"
+      ],
+      "reproduction_number": [
+        "LC-DIG-ppmsca-15419 (digital file from original photograph)"
+      ],
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/ppmsca.15419"
+      ],
+      "rights_information": "Rights status not evaluated. For general information see \"Copyright and Other Restrictions...,\" https://www.loc.gov/rr/print/195_copr.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15419_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15419r.jpg",
+      "sort_date": "1900",
+      "source_created": "2007-11-30T00:00:00Z",
+      "source_modified": "2007-12-18T16:03:11Z",
+      "subject_headings": [
+        "Carnegie libraries--Missouri--Saint Joseph--1900-1910.",
+        "Public libraries--Missouri--Saint Joseph--1900-1910.",
+        "Missouri--Saint Joseph"
+      ],
+      "subjects": [
+        "Carnegie libraries--Missouri--Saint Joseph--1900-1910",
+        "Public libraries--Missouri--Saint Joseph--1900-1910"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15419_150px.jpg",
+      "title": "[Book room, Carnegie library, St. Joseph, Missouri]"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2007684180",
+    "link": "https://www.loc.gov/pictures/item/2007684180/",
+    "location": [
+      "saint joseph",
+      "missouri"
+    ],
+    "locations": [
+      {
+        "missouri": "https://www.loc.gov/search/?fa=location:missouri&fo=json"
+      },
+      {
+        "saint joseph": "https://www.loc.gov/search/?fa=location:saint+joseph&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2007684180/marc/",
+    "medium": [
+      "1 photographic print."
+    ],
+    "medium_brief": "1 photographic print.",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-20T12:02:48Z",
+    "notes": [
+      "Title devised by Library staff.",
+      "On back of photograph: St. Joseph Free Lib."
+    ],
+    "number": [
+      "online resource",
+      "2007684180",
+      "http://www.loc.gov/item/15098945",
+      "2026-03-27t19:17:28.900000",
+      "sheet"
+    ],
+    "number_carrier_type": [
+      "sheet",
+      "online resource"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/15098945"
+    ],
+    "number_lccn": [
+      "2007684180"
+    ],
+    "number_source_modified": [
+      "2026-03-27t19:17:28.900000"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "15098945"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2007684180/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2007684180/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2007684180/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 107,
+        "title": "lot 8908",
+        "url": "https://www.loc.gov/search/?fa=partof:lot+8908&fo=json"
+      },
+      {
+        "count": 1163200,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1905479,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Missouri--Saint%20Joseph&co=cph",
+        "longitude": "",
+        "title": "Missouri--Saint Joseph"
+      }
+    ],
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA dcu"
+    ],
+    "reproduction_number": [
+      "LC-DIG-ppmsca-15419 (digital file from original photograph)"
+    ],
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/ppmsca.15419"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original item",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15419_150px.jpg",
+        "url": "https://www.loc.gov/resource/ppmsca.15419/"
+      }
+    ],
+    "rights": [],
+    "rights_information": "Rights status not evaluated. For general information see \"Copyright and Other Restrictions...,\" https://www.loc.gov/rr/print/195_copr.html",
+    "score": 18.889898,
+    "shard": "00",
+    "shelf_id": "LOT 8908 [item]",
+    "site": [
+      "catalog",
+      "pictures"
+    ],
+    "sort_date": "1900",
+    "source_created": "2007-11-30T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "public libraries",
+      "missouri",
+      "saint joseph",
+      "photographic prints",
+      "carnegie libraries"
+    ],
+    "subject_headings": [
+      "Carnegie libraries--Missouri--Saint Joseph--1900-1910",
+      "Public libraries--Missouri--Saint Joseph--1900-1910"
+    ],
+    "subjects": [
+      {
+        "carnegie libraries": "https://www.loc.gov/search/?fa=subject:carnegie+libraries&fo=json"
+      },
+      {
+        "missouri": "https://www.loc.gov/search/?fa=subject:missouri&fo=json"
+      },
+      {
+        "photographic prints": "https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json"
+      },
+      {
+        "public libraries": "https://www.loc.gov/search/?fa=subject:public+libraries&fo=json"
+      },
+      {
+        "saint joseph": "https://www.loc.gov/search/?fa=subject:saint+joseph&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15419_150px.jpg",
+    "timestamp": "2026-04-06T16:15:24.140Z",
+    "title": "[Book room, Carnegie library, St. Joseph, Missouri]",
+    "type": [
+      "still image"
+    ],
+    "url": "https://www.loc.gov/item/2007684180/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007686641/",
+        "http://www.loc.gov/item/2007686641/",
+        "http://www.loc.gov/pictures/item/2007686641/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007686641/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007686641/",
+        "http://www.loc.gov/resource/ppmsca.15410/",
+        "http://lccn.loc.gov/2007686641",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15410"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "eckel, edmund jacques"
+      ],
+      "date": "1903-01-01",
+      "dates": [
+        "1903"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T11:25:42.975Z",
+      "group": [
+        "cph",
+        "catalog-split-08",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007686641/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15410_150px.jpg#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15410t.gif#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15410r.jpg#h=522&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15410v.jpg#h=835&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "saint joseph",
+        "missouri"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007686641",
+        "http://www.loc.gov/item/15100731",
+        "2008-12-29t14:31:55"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "lot 8908"
+      ],
+      "score": 48.178215,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "public libraries",
+        "missouri",
+        "interiors",
+        "saint joseph",
+        "photographic prints",
+        "carnegie libraries"
+      ],
+      "timestamp": "2022-05-02T04:56:20.446Z",
+      "title": "[Circulation desk, Carnegie Library, St. Joseph, Missouri]",
+      "url": "https://www.loc.gov/item/2007686641/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007686627/",
+        "http://www.loc.gov/item/2007686627/",
+        "http://www.loc.gov/pictures/item/2007686627/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007686627/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007686627/",
+        "http://www.loc.gov/resource/ppmsca.15396/",
+        "http://lccn.loc.gov/2007686627",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15396"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "eckle, edmund jacques"
+      ],
+      "date": "1903-01-01",
+      "dates": [
+        "1903"
+      ],
+      "description": [
+        "1 photographic print : stat."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-26T07:48:51.073Z",
+      "group": [
+        "cph",
+        "catalog-split-12",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007686627/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15396_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15396t.gif#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15396r.jpg#h=517&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15396v.jpg#h=827&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "saint joseph",
+        "missouri"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007686627",
+        "2007-12-06t09:21:27",
+        "http://www.loc.gov/item/15097234"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "lot 8908"
+      ],
+      "score": 44.73695,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "public libraries",
+        "missouri",
+        "saint joseph",
+        "carnegie libraries",
+        "stats"
+      ],
+      "timestamp": "2022-05-02T04:56:20.446Z",
+      "title": "[Carnegie Library, St. Joseph, Missouri]",
+      "url": "https://www.loc.gov/item/2007686627/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007684785/",
+        "http://www.loc.gov/item/2007684785/",
+        "http://www.loc.gov/pictures/item/2007684785/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007684785/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007684785/",
+        "http://www.loc.gov/resource/ppmsca.15369/",
+        "http://lccn.loc.gov/2007684785",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15369"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "eckel, edmund jacques"
+      ],
+      "date": "1902-01-01",
+      "dates": [
+        "1902"
+      ],
+      "description": [
+        "1 photographic print : stat."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T11:22:57.770Z",
+      "group": [
+        "cph",
+        "catalog-split-15",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007684785/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15369_150px.jpg#h=150&w=139",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15369t.gif#h=150&w=139",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15369r.jpg#h=640&w=593",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15369v.jpg#h=1024&w=949"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "missouri",
+        "st. joseph"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007684785",
+        "http://www.loc.gov/item/15033588",
+        "2007-12-06t10:59:20"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "lot 8908"
+      ],
+      "score": 31.01465,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "public libraries",
+        "missouri",
+        "st. joseph",
+        "carnegie libraries",
+        "stats",
+        "floor plans"
+      ],
+      "timestamp": "2022-05-02T04:55:13.628Z",
+      "title": "[Floor plan for Carnegie Library, St. Joseph, Missouri]",
+      "url": "https://www.loc.gov/item/2007684785/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007686636/",
+        "http://www.loc.gov/item/2007686636/",
+        "http://www.loc.gov/pictures/item/2007686636/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007686636/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007686636/",
+        "http://www.loc.gov/resource/ppmsca.15405/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15405",
+        "http://lccn.loc.gov/2007686636"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "smithmeyer & pelz"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-26T07:48:51.073Z",
+      "group": [
+        "cph",
+        "catalog-split-12",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007686636/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15405_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15405t.gif#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15405r.jpg#h=510&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15405v.jpg#h=816&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pennsylvania",
+        "pittsburgh"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007686636",
+        "http://www.loc.gov/item/15100674",
+        "2008-12-29t14:36:50"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "lot 8908"
+      ],
+      "score": 27.002213,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "public libraries",
+        "pennsylvania",
+        "reading rooms",
+        "photographic prints",
+        "pittsburgh",
+        "carnegie libraries"
+      ],
+      "timestamp": "2022-05-02T04:56:20.446Z",
+      "title": "[Women's reading room, Carnegie Library and Music Hall, Alleghany City, Pennsylvania]",
+      "url": "https://www.loc.gov/item/2007686636/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007685856/",
+        "http://www.loc.gov/item/2007685856/",
+        "http://www.loc.gov/pictures/item/2007685856/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007685856/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007685856/",
+        "http://www.loc.gov/resource/ppmsca.15390/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15390",
+        "http://lccn.loc.gov/2007685856"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "sanguinet, m.r."
+      ],
+      "date": "1902-01-01",
+      "dates": [
+        "1902"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-26T07:46:27.711Z",
+      "group": [
+        "cph",
+        "catalog-split-15",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007685856/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15390_150px.jpg#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15390t.gif#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15390r.jpg#h=494&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15390v.jpg#h=791&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "kansas",
+        "leavenworth"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007-12-06t10:13:23",
+        "2007685856",
+        "http://www.loc.gov/item/15045764"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "lot 8908"
+      ],
+      "score": 27.002213,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "kansas",
+        "leavenworth",
+        "public libraries",
+        "photographic prints",
+        "carnegie libraries"
+      ],
+      "timestamp": "2022-05-02T04:55:37.255Z",
+      "title": "[Carnegie Library, Leavenworth, Kansas]",
+      "url": "https://www.loc.gov/item/2007685856/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007684768/",
+        "http://www.loc.gov/item/2007684768/",
+        "http://www.loc.gov/pictures/item/2007684768/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007684768/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007684768/",
+        "http://www.loc.gov/resource/ppmsca.15352/",
+        "http://lccn.loc.gov/2007684768",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15352"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "deane, e. eldon (edward eldon), approximately 1852",
+        "deane, e. eldon (edward eldon)",
+        "tilton, edward l. (edward lippincott)"
+      ],
+      "date": "1903-01-01",
+      "dates": [
+        "1903"
+      ],
+      "description": [
+        "1 photographic print. | Photograph shows architectural rendering of Carnegie Library, Bayonne, N.J."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T00:14:42.368Z",
+      "group": [
+        "cph",
+        "catalog-split-00",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007684768/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15352_150px.jpg#h=99&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15352t.gif#h=99&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15352r.jpg#h=423&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15352v.jpg#h=678&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new jersey",
+        "bayonne"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/15016391",
+        "2007684768",
+        "2019-03-19t10:50:08"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "lot 8908"
+      ],
+      "score": 27.002213,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "public libraries",
+        "renderings",
+        "photographic prints",
+        "new jersey",
+        "carnegie libraries",
+        "bayonne"
+      ],
+      "timestamp": "2022-05-02T04:55:13.628Z",
+      "title": "[Carnegie library, Bayonne, N.J.]",
+      "url": "https://www.loc.gov/item/2007684768/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_shim": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "catalog-split-04",
+      "catalog",
+      "cph",
+      "main-catalog-split-04",
+      "miscellaneous-items-high-demand",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "main-catalog",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "ndnp/dlc-2020_now",
+      "library-of-congress-washington-dc-awardee-8"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 25,
+    "delimiter": null,
+    "digital_id": null,
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 2.7480309009552,
+    "embed": [],
+    "embed!": [],
+    "error_response_status": null,
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": "2007684180/",
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_partial": true,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/item/2007684180/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/item/2007684180/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "shards": [
+      "00"
+    ],
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "layouts/item/layout",
+    "timestamp": 1794603988.7925482,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85067184/1892-01-30/ed-1/",
+        "http://www.loc.gov/resource/sn85067184/1892-01-30/ed-1/"
+      ],
+      "batch": [
+        "dlc_capehart_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1892-01-30",
+      "dates": [
+        "1892-01-30"
+      ],
+      "description": [
+        "Topeka, Kan."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-03-16T23:56:40.379Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85067184/1892-01-30/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892013001:0081/full/pct:3.125/0/default.jpg#h=280&w=197",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892013001:0081/full/pct:6.25/0/default.jpg#h=560&w=395",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892013001:0081/full/pct:12.5/0/default.jpg#h=1121&w=791"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "kansas",
+        "shawnee",
+        "missouri",
+        "united states",
+        "jackson",
+        "saint joseph",
+        "buchanan",
+        "kansas city",
+        "topeka"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00211664046",
+        "sn85067184",
+        "1"
+      ],
+      "numeric_shelf_id": 189201301,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "chronicling america",
+        "the times-observer (topeka, kan.) 1891-1892"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 22.776499,
+      "shelf_id": "sn85067184, 1892-01-30, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "kansas",
+        "shawnee",
+        "missouri",
+        "african american",
+        "united states",
+        "topeka",
+        "newspapers",
+        "kansas city (mo.)",
+        "african american newspapers",
+        "saint joseph",
+        "jackson",
+        "buchanan",
+        "kansas city",
+        "saint joseph (mo.)",
+        "topeka (kan.)",
+        "african americans"
+      ],
+      "timestamp": "2024-03-17T00:02:16.924Z",
+      "title": "The times-observer (Topeka, Kan.), January 30, 1892",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85067184/1892-01-30/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85067184/1892-02-06/ed-1/",
+        "http://www.loc.gov/resource/sn85067184/1892-02-06/ed-1/"
+      ],
+      "batch": [
+        "dlc_capehart_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1892-02-06",
+      "dates": [
+        "1892-02-06"
+      ],
+      "description": [
+        "Topeka, Kan."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-03-16T23:56:40.379Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85067184/1892-02-06/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892020601:0085/full/pct:3.125/0/default.jpg#h=279&w=199",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892020601:0085/full/pct:6.25/0/default.jpg#h=559&w=398",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892020601:0085/full/pct:12.5/0/default.jpg#h=1118&w=796"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "kansas",
+        "shawnee",
+        "missouri",
+        "united states",
+        "jackson",
+        "saint joseph",
+        "buchanan",
+        "kansas city",
+        "topeka"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00211664046",
+        "sn85067184",
+        "1"
+      ],
+      "numeric_shelf_id": 189202061,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "chronicling america",
+        "the times-observer (topeka, kan.) 1891-1892"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 22.776499,
+      "shelf_id": "sn85067184, 1892-02-06, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "kansas",
+        "shawnee",
+        "missouri",
+        "african american",
+        "united states",
+        "topeka",
+        "newspapers",
+        "kansas city (mo.)",
+        "african american newspapers",
+        "saint joseph",
+        "jackson",
+        "buchanan",
+        "kansas city",
+        "saint joseph (mo.)",
+        "topeka (kan.)",
+        "african americans"
+      ],
+      "timestamp": "2024-03-17T00:02:16.924Z",
+      "title": "The times-observer (Topeka, Kan.), February 6, 1892",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85067184/1892-02-06/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85067184/1892-02-13/ed-1/",
+        "http://www.loc.gov/resource/sn85067184/1892-02-13/ed-1/"
+      ],
+      "batch": [
+        "dlc_capehart_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1892-02-13",
+      "dates": [
+        "1892-02-13"
+      ],
+      "description": [
+        "Topeka, Kan."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-03-16T23:56:40.379Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85067184/1892-02-13/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892021301:0089/full/pct:3.125/0/default.jpg#h=279&w=198",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892021301:0089/full/pct:6.25/0/default.jpg#h=558&w=397",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892021301:0089/full/pct:12.5/0/default.jpg#h=1116&w=794"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "kansas",
+        "shawnee",
+        "missouri",
+        "united states",
+        "jackson",
+        "saint joseph",
+        "buchanan",
+        "kansas city",
+        "topeka"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00211664046",
+        "sn85067184",
+        "1"
+      ],
+      "numeric_shelf_id": 189202131,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "chronicling america",
+        "the times-observer (topeka, kan.) 1891-1892"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 22.776499,
+      "shelf_id": "sn85067184, 1892-02-13, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "kansas",
+        "shawnee",
+        "missouri",
+        "african american",
+        "united states",
+        "topeka",
+        "newspapers",
+        "kansas city (mo.)",
+        "african american newspapers",
+        "saint joseph",
+        "jackson",
+        "buchanan",
+        "kansas city",
+        "saint joseph (mo.)",
+        "topeka (kan.)",
+        "african americans"
+      ],
+      "timestamp": "2024-03-17T00:02:16.924Z",
+      "title": "The times-observer (Topeka, Kan.), February 13, 1892",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85067184/1892-02-13/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85067184/1892-02-20/ed-1/",
+        "http://www.loc.gov/resource/sn85067184/1892-02-20/ed-1/"
+      ],
+      "batch": [
+        "dlc_capehart_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1892-02-20",
+      "dates": [
+        "1892-02-20"
+      ],
+      "description": [
+        "Topeka, Kan."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-03-16T23:56:40.379Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85067184/1892-02-20/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892022001:0093/full/pct:3.125/0/default.jpg#h=278&w=198",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892022001:0093/full/pct:6.25/0/default.jpg#h=556&w=396",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892022001:0093/full/pct:12.5/0/default.jpg#h=1113&w=792"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "kansas",
+        "shawnee",
+        "missouri",
+        "united states",
+        "jackson",
+        "saint joseph",
+        "buchanan",
+        "kansas city",
+        "topeka"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00211664046",
+        "sn85067184",
+        "1"
+      ],
+      "numeric_shelf_id": 189202201,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "chronicling america",
+        "the times-observer (topeka, kan.) 1891-1892"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 22.776499,
+      "shelf_id": "sn85067184, 1892-02-20, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "kansas",
+        "shawnee",
+        "missouri",
+        "african american",
+        "united states",
+        "topeka",
+        "newspapers",
+        "kansas city (mo.)",
+        "african american newspapers",
+        "saint joseph",
+        "jackson",
+        "buchanan",
+        "kansas city",
+        "saint joseph (mo.)",
+        "topeka (kan.)",
+        "african americans"
+      ],
+      "timestamp": "2024-03-17T00:02:16.924Z",
+      "title": "The times-observer (Topeka, Kan.), February 20, 1892",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85067184/1892-02-20/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85067184/1892-02-27/ed-1/",
+        "http://www.loc.gov/resource/sn85067184/1892-02-27/ed-1/"
+      ],
+      "batch": [
+        "dlc_capehart_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1892-02-27",
+      "dates": [
+        "1892-02-27"
+      ],
+      "description": [
+        "Topeka, Kan."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-03-16T23:56:40.379Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85067184/1892-02-27/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892022701:0097/full/pct:3.125/0/default.jpg#h=279&w=199",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892022701:0097/full/pct:6.25/0/default.jpg#h=558&w=398",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892022701:0097/full/pct:12.5/0/default.jpg#h=1116&w=796"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "kansas",
+        "shawnee",
+        "missouri",
+        "united states",
+        "jackson",
+        "saint joseph",
+        "buchanan",
+        "kansas city",
+        "topeka"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00211664046",
+        "sn85067184",
+        "1"
+      ],
+      "numeric_shelf_id": 189202271,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "chronicling america",
+        "the times-observer (topeka, kan.) 1891-1892"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 22.776499,
+      "shelf_id": "sn85067184, 1892-02-27, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "kansas",
+        "shawnee",
+        "missouri",
+        "african american",
+        "united states",
+        "topeka",
+        "newspapers",
+        "kansas city (mo.)",
+        "african american newspapers",
+        "saint joseph",
+        "jackson",
+        "buchanan",
+        "kansas city",
+        "saint joseph (mo.)",
+        "topeka (kan.)",
+        "african americans"
+      ],
+      "timestamp": "2024-03-17T00:02:16.924Z",
+      "title": "The times-observer (Topeka, Kan.), February 27, 1892",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85067184/1892-02-27/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85067184/1892-03-05/ed-1/",
+        "http://www.loc.gov/resource/sn85067184/1892-03-05/ed-1/"
+      ],
+      "batch": [
+        "dlc_capehart_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1892-03-05",
+      "dates": [
+        "1892-03-05"
+      ],
+      "description": [
+        "Topeka, Kan."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-03-16T23:56:40.379Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85067184/1892-03-05/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892030501:0101/full/pct:3.125/0/default.jpg#h=280&w=200",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892030501:0101/full/pct:6.25/0/default.jpg#h=561&w=401",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_capehart_ver02:data:sn85067184:00211664046:1892030501:0101/full/pct:12.5/0/default.jpg#h=1122&w=802"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "kansas",
+        "shawnee",
+        "missouri",
+        "united states",
+        "jackson",
+        "saint joseph",
+        "buchanan",
+        "kansas city",
+        "topeka"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00211664046",
+        "sn85067184",
+        "1"
+      ],
+      "numeric_shelf_id": 189203051,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "chronicling america",
+        "the times-observer (topeka, kan.) 1891-1892"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 22.776499,
+      "shelf_id": "sn85067184, 1892-03-05, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "kansas",
+        "shawnee",
+        "missouri",
+        "african american",
+        "united states",
+        "topeka",
+        "newspapers",
+        "kansas city (mo.)",
+        "african american newspapers",
+        "saint joseph",
+        "jackson",
+        "buchanan",
+        "kansas city",
+        "saint joseph (mo.)",
+        "topeka (kan.)",
+        "african americans"
+      ],
+      "timestamp": "2024-03-17T00:02:16.924Z",
+      "title": "The times-observer (Topeka, Kan.), March 5, 1892",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85067184/1892-03-05/ed-1/"
+    }
+  ],
+  "resources": [
+    {
+      "caption": "digital file from original item",
+      "files": [],
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15419_150px.jpg",
+      "pdf": "",
+      "url": "https://www.loc.gov/resource/ppmsca.15419/"
+    }
+  ],
+  "timestamp": 1794603991541
+}

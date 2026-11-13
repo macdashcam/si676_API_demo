@@ -1,0 +1,1543 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Historic American Buildings Survey, C. (1933) <cite>Mother Marianne Library, Moloka'i Island, Kalaupapa, Kalawao County, HI</cite>. Hawaii Kalaupapa Kalawao County, 1933. Documentation Compiled After. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/hi0135/.",
+    "chicago": "Historic American Buildings Survey, Creator. <cite>Mother Marianne Library, Moloka'i Island, Kalaupapa, Kalawao County, HI</cite>. Hawaii Kalaupapa Kalawao County, 1933. Documentation Compiled After. Photograph. https://www.loc.gov/item/hi0135/.",
+    "mla": "Historic American Buildings Survey, Creator. <cite>Mother Marianne Library, Moloka'i Island, Kalaupapa, Kalawao County, HI</cite>. Documentation Compiled After. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/hi0135/&gt;."
+  },
+  "item": {
+    "_version_": 1821166795501862912,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/hi0135/",
+      "http://www.loc.gov/item/hi0135/",
+      "http://www.loc.gov/pictures/item/hi0135/",
+      "https://www.loc.gov/pictures/collection/hh/item/hi0135/",
+      "http://www.loc.gov/pictures/collection/hh/item/hi0135/",
+      "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0135/data/hi0135data.pdf",
+      "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0135/data/hi0135data.pdf",
+      "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0135/data/hi0135cap.pdf",
+      "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0135/data/hi0135cap.pdf",
+      "https://www.loc.gov:8081/pictures/search/?q=photograph: hi0135&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "http://www.loc.gov:8081/pictures/search/?q=photograph: hi0135&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "http://www.loc.gov/resource/hhh.hi0135data/",
+      "http://www.loc.gov/resource/hhh.hi0135cap/",
+      "http://www.loc.gov/resource/hhh.hi0135.photos/",
+      "http://www.loc.gov/resource/hhh.hi0135.photos"
+    ],
+    "call_number": "HABS HI,3-KALA,26-",
+    "campaigns": [],
+    "contributor_names": [
+      "Historic American Buildings Survey, creator"
+    ],
+    "contributors": [
+      {
+        "historic american buildings survey": "https://www.loc.gov/search/?fa=contributor:historic+american+buildings+survey&fo=json"
+      }
+    ],
+    "control_number": "hi0135",
+    "created": "2016-04-17T05:53:23Z",
+    "created_published": [
+      "Documentation compiled after 1933"
+    ],
+    "created_published_date": "Documentation compiled after 1933",
+    "description": [
+      "Photo(s): 1 | Photo Caption Page(s): 1"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2025-01-13T20:18:42.205Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/hh/item/hi0135/#hh-2"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "group": [
+      "hh-2",
+      "habshaer-group-2"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/hi0135/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0135/photos/058276p_150px.jpg#h=107&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0135/photos/058276pr.jpg#h=458&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0135/photos/058276pv.jpg#h=733&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "HABS HI,3-KALA,26-",
+      "control_number": "hi0135",
+      "created": "2016-04-17T05:53:23Z",
+      "created_published": "Documentation compiled after 1933",
+      "created_published_date": "Documentation compiled after 1933",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Buildings%20Survey&co=hh",
+          "role": "creator",
+          "title": "Historic American Buildings Survey"
+        }
+      ],
+      "display_offsite": true,
+      "id": "hi0135",
+      "link": "https://www.loc.gov/pictures/item/hi0135/",
+      "medium_brief": "Photo(s): 1, Photo Caption Page(s): 1",
+      "mediums": [
+        "Photo(s): 1 ",
+        "Photo Caption Page(s): 1 "
+      ],
+      "modified": "2024-12-13T16:31:59Z",
+      "notes": [
+        "Survey number: HABS HI-101 ",
+        "Building/structure dates: 1965 Initial Construction ",
+        "National Register of Historic Places NRIS Number: 76002145 "
+      ],
+      "other_title": [
+        "Kalaupapa National Historical Park\nBuilding No. 65-296\nKalaupapa Leprosy Settlement"
+      ],
+      "part_of": "Historic American Buildings Survey (Library of Congress)",
+      "part_of_group": "Survey Number hi0135",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Hawaii--Kalawao%20County--Kalaupapa&co=hh",
+          "longitude": "",
+          "title": "Hawaii -- Kalawao County -- Kalaupapa"
+        }
+      ],
+      "raw_collections": [
+        "diof",
+        "hh",
+        "survey"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "resource_links": [
+        "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0100/hi0135/data/hi0135data.pdf",
+        "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0100/hi0135/data/hi0135cap.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=Photograph: hi0135&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+      ],
+      "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+      "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0135/photos/058276p_150px.jpg?q=hi0135.photos.058276p&c=1&st=gallery",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0135/photos/058276pr.jpg?q=hi0135.photos.058276p&c=1&st=gallery",
+      "source_created": "1970-01-01T00:00:00Z",
+      "source_modified": "2016-04-17T05:53:00Z",
+      "subject_headings": [
+        "libraries",
+        "Hawaii -- Kalawao County -- Kalaupapa"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0135/photos/058276p_150px.jpg?q=hi0135.photos.058276p&c=1&st=gallery",
+      "title": "Mother Marianne Library, Moloka'i Island, Kalaupapa, Kalawao County, HI"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "link": "https://www.loc.gov/pictures/item/hi0135/",
+    "location": [
+      "hawaii",
+      "kalaupapa",
+      "kalawao county"
+    ],
+    "locations": [
+      {
+        "hawaii": "https://www.loc.gov/search/?fa=location:hawaii&fo=json"
+      },
+      {
+        "kalaupapa": "https://www.loc.gov/search/?fa=location:kalaupapa&fo=json"
+      },
+      {
+        "kalawao county": "https://www.loc.gov/search/?fa=location:kalawao+county&fo=json"
+      }
+    ],
+    "medium": [
+      "Photo(s): 1 ",
+      "Photo Caption Page(s): 1 "
+    ],
+    "medium_brief": "Photo(s): 1, Photo Caption Page(s): 1",
+    "mime_type": [
+      "image/gif",
+      "application/pdf"
+    ],
+    "modified": "2024-12-13T16:31:59Z",
+    "notes": [
+      "Survey number: HABS HI-101 ",
+      "Building/structure dates: 1965 Initial Construction ",
+      "National Register of Historic Places NRIS Number: 76002145 "
+    ],
+    "online_format": [
+      "image",
+      "pdf"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_formats": [],
+    "other_title": [
+      "Kalaupapa National Historical Park\nBuilding No. 65-296\nKalaupapa Leprosy Settlement"
+    ],
+    "part_of_group": "Survey Number hi0135",
+    "partof": [
+      {
+        "count": 45882,
+        "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
+      },
+      {
+        "count": 419259,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 1163200,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Hawaii--Kalawao%20County--Kalaupapa&co=hh",
+        "longitude": "",
+        "title": "Hawaii -- Kalawao County -- Kalaupapa"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "hh",
+      "survey"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=hi0135&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproductions": [
+      "<h4>If Digital Images Are Displaying</h4>\r\n<p>You can download online images yourself.  Alternatively, you can  purchase copies of various types through Library of Congress Duplication  Services.</p>\r\n<p>HABS/HAER/HALS materials have generally been scanned at high resolution that is suitable for most publication purposes (see <a href=\"/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/technical-information/\">Digitizing the Collection</a> for further details about the digital images).</p>\r\n<ul class=\"plain margin-bottom-double-li list-plain-extra-margin\">\r\n\t<li><strong>Photographs--</strong>All photographs are printed from digital files to preserve the fragile originals. </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number and Item Number that appear under the  photograph in the multiple-image display (e.g., HAER, NY,52-BRIG,4-2). </li>\r\n\t\t<li>If possible, include a printout of the photograph. </li>\r\n\t</ul>\r\n\t<li><strong>Drawings--</strong>All drawings are printed from digital files to preserve the fragile originals. </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Survey Number (e.g., HAER NY - 143) and Sheet  Number (e.g., \"Sheet 1 of 4\"), which appear on the edge of the drawing.  (NOTE: These numbers are visible in the Tiff \"Reference Image\" display.) </li>\r\n\t\t<li>If possible, include a printout of the drawing. </li>\r\n\t</ul>\r\n\t<li><strong>Data Pages</strong></li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number in the catalog record. </li>\r\n\t</ul>\r\n</ul>\r\n<h4>If Digital Images Are Not Displaying</h4>\r\n<p>In the rare case that a digital image for HABS/HAER/HALS  documentation is not displaying online, select images for reproduction  through one of these methods:</p>\r\n<ul class=\"plain margin-bottom-double-li list-plain-extra-margin\">\r\n\t<li>Visit the Prints &amp; Photographs Reading Room and request to  view the group (general information about service in the reading room is  available at: <a href=\"https://www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>). It is best to contact reference staff in advance (see: <a href=\"https://www.loc.gov/rr/print/address.html\">https://www.loc.gov/rr/print/address.html</a>) to make sure the material is on site.  OR </li>\r\n\t<li>P&amp;P reading room staff can provide up to 15 quick copies of  items per calendar year (many original items in the holdings are too old  or fragile to make such copies, but generally HABS/HAER/HALS materials  are in good enough condition to be placed on photocopy machines). For  assistance, see our <a href=\"https://ask.loc.gov/prints-photographs/\">Ask a Librarian</a> page OR </li>\r\n\t<li>Hire a freelance researcher to do further selection for you (a list of researchers in available at: <a href=\"https://www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>). </li>\r\n\t<li>You can purchase copies of various types, including quick  copies, through Library of Congress Duplication Services (price lists,  contact information, and order forms for Library of Congress Duplication  Services are available on the <a href=\"https://www.loc.gov/preserv/pds/\">Duplication Services Web site</a>): </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number listed above. </li>\r\n\t\t<li>Look at the Medium field above. If it lists more than one item: </li>\r\n\t\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t\t<li>The entire group can be ordered as photocopies or high-quality copies. </li>\r\n\t\t\t<li>All the items in a particular medium (e.g., all drawings, all  photographs) can be ordered as photocopies or high-quality copies. </li>\r\n\t\t</ul>\r\n\t</ul>\r\n</ul>\r\n"
+    ],
+    "resource_links": [
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0100/hi0135/data/hi0135data.pdf",
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0100/hi0135/data/hi0135cap.pdf",
+      "https://www.loc.gov:8081/pictures/search/?q=Photograph: hi0135&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+    ],
+    "resources": [
+      {
+        "caption": "Photos from Survey HABS HI-101 ",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0135/photos/058276p_150px.jpg",
+        "url": "https://www.loc.gov/resource/hhh.hi0135.photos"
+      },
+      {
+        "caption": "Data Pages from Survey HABS HI-101 ",
+        "files": 1,
+        "image": "/static/images/original-format/manuscript-mixed-material.svg"
+      },
+      {
+        "caption": "Photo Captions from Survey HABS HI-101 ",
+        "files": 1,
+        "image": "/static/images/original-format/manuscript-mixed-material.svg"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n\n"
+    ],
+    "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "score": 37.779797,
+    "shard": "00",
+    "shelf_id": "HABS HI,3-KALA,26-",
+    "site": [
+      "pictures"
+    ],
+    "source_collection": "Historic American Buildings Survey (Library of Congress)",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "libraries"
+    ],
+    "subject_headings": [
+      "libraries",
+      "Hawaii -- Kalawao County -- Kalaupapa"
+    ],
+    "subjects": [
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0135/photos/058276p_150px.jpg?q=hi0135.photos.058276p&c=1&st=gallery",
+    "timestamp": "2025-01-13T20:26:37.861Z",
+    "title": "Mother Marianne Library, Moloka'i Island, Kalaupapa, Kalawao County, HI",
+    "type": [
+      "still image"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/hi0135/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/hi0097/",
+        "http://www.loc.gov/item/hi0097/",
+        "http://www.loc.gov/pictures/item/hi0097/",
+        "https://www.loc.gov/pictures/collection/hh/item/hi0097/",
+        "http://www.loc.gov/pictures/collection/hh/item/hi0097/",
+        "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0000/hi0097/data/hi0097data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0000/hi0097/data/hi0097data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0000/hi0097/data/hi0097cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0000/hi0097/data/hi0097cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: hi0097&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: hi0097&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "https://stage.loc.gov/pictures/search/?q=drawing: hi0097&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: hi0097&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.hi0097data/",
+        "http://www.loc.gov/resource/hhh.hi0097cap/",
+        "http://www.loc.gov/resource/hhh.hi0097.sheet/",
+        "http://www.loc.gov/resource/hhh.hi0097.photos/",
+        "http://www.loc.gov/resource/hhh.hi0097.photos",
+        "http://www.loc.gov/resource/hhh.hi0097.photos.058398p",
+        "http://www.loc.gov/resource/hhh.hi0097.photos.058399p",
+        "http://www.loc.gov/resource/hhh.hi0097.sheet"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "hawaii board of leper hospitals and settlement",
+        "lockett, dana",
+        "hawaii board of public works",
+        "croteau, todd a",
+        "kalaupapa national historical park",
+        "hawaii board of health",
+        "de sousa, daniel",
+        "davidson, paul",
+        "pierce, ryan",
+        "historic american buildings survey",
+        "boucher, jack e.",
+        "davidson, lisa pfueller",
+        "hawaii board of hospitals",
+        "national recovery administration",
+        "mcpartland, mary"
+      ],
+      "description": [
+        "Photo(s): 2 | Measured Drawing(s): 1 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T20:17:47.682Z",
+      "group": [
+        "hh-2",
+        "habshaer-group-2"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/hi0097/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0000/hi0097/photos/058398p_150px.jpg#h=107&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0000/hi0097/photos/058398pr.jpg#h=458&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0000/hi0097/photos/058398pv.jpg#h=732&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        21.190294,
+        -156.984207
+      ],
+      "location": [
+        "hawaii",
+        "kalaupapa",
+        "kalawao county"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -156.984207,
+        21.190294
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "american memory",
+        "prints and photographs division"
+      ],
+      "score": 21.83659,
+      "shelf_id": "HABS HI,3-KALA,49-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "gasoline pumps",
+        "warehouses",
+        "pavilions",
+        "stores & shops",
+        "quarantines",
+        "catholic churches",
+        "courthouses",
+        "post offices"
+      ],
+      "timestamp": "2025-01-13T20:26:37.861Z",
+      "title": "Town of Kalaupapa, Moloka'i Island, Kalaupapa, Kalawao County, HI",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/hi0097/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/hi0098/",
+        "http://www.loc.gov/item/hi0098/",
+        "http://www.loc.gov/pictures/item/hi0098/",
+        "https://www.loc.gov/pictures/collection/hh/item/hi0098/",
+        "http://www.loc.gov/pictures/collection/hh/item/hi0098/",
+        "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0000/hi0098/data/hi0098data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0000/hi0098/data/hi0098data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0000/hi0098/data/hi0098cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0000/hi0098/data/hi0098cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: hi0098&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: hi0098&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "https://stage.loc.gov/pictures/search/?q=drawing: hi0098&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: hi0098&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.hi0098data/",
+        "http://www.loc.gov/resource/hhh.hi0098cap/",
+        "http://www.loc.gov/resource/hhh.hi0098.sheet/",
+        "http://www.loc.gov/resource/hhh.hi0098.photos/",
+        "http://www.loc.gov/resource/hhh.hi0098.photos",
+        "http://www.loc.gov/resource/hhh.hi0098.color.361561c",
+        "http://www.loc.gov/resource/hhh.hi0098.color.361562c",
+        "http://www.loc.gov/resource/hhh.hi0098.color.361563c",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058202p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058203p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058204p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058205p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058206p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058207p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058208p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058209p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058210p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058211p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058212p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058213p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058214p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058215p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058216p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058217p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058218p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058219p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058220p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058221p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058222p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058223p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058224p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058225p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058226p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058227p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058228p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058229p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058230p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058231p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058232p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058233p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058234p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058235p",
+        "http://www.loc.gov/resource/hhh.hi0098.photos.058236p",
+        "http://www.loc.gov/resource/hhh.hi0098.sheet",
+        "http://www.loc.gov/resource/hhh.hi0098.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.hi0098.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.hi0098.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.hi0098.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.hi0098.sheet.00005a",
+        "http://www.loc.gov/resource/hhh.hi0098.sheet.00006a",
+        "http://www.loc.gov/resource/hhh.hi0098.sheet.00007a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "slocumb, katharine b.",
+        "maunu, puanani",
+        "soucie, s. m.",
+        "hasenyager, angela",
+        "boucher, jack e.",
+        "historic american buildings survey",
+        "hoagland, alison k.",
+        "francis, barbara ann",
+        "garza, a. j."
+      ],
+      "description": [
+        "Photo(s): 35 | Color Transparencies: 3 | Measured Drawing(s): 7 | Data Page(s): 32 | Photo Caption Page(s): 4"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T20:17:47.682Z",
+      "group": [
+        "hh-2",
+        "habshaer-group-2"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/hi0098/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0000/hi0098/color/361561c_150px.jpg#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0000/hi0098/color/361561cr.jpg#h=459&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0000/hi0098/color/361561cv.jpg#h=735&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "hawaii",
+        "kalaupapa",
+        "kalawao county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "american memory",
+        "prints and photographs division"
+      ],
+      "score": 21.83659,
+      "shelf_id": "HABS HI,3-KALA,17-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "community centers",
+        "recreation centers",
+        "motion picture theaters"
+      ],
+      "timestamp": "2025-01-13T20:26:37.861Z",
+      "title": "Kalaupapa Social Hall, Moloka'i Island, Kalaupapa, Kalawao County, HI",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/hi0098/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/hi0103/",
+        "http://www.loc.gov/item/hi0103/",
+        "http://www.loc.gov/pictures/item/hi0103/",
+        "https://www.loc.gov/pictures/collection/hh/item/hi0103/",
+        "http://www.loc.gov/pictures/collection/hh/item/hi0103/",
+        "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0103/data/hi0103data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0103/data/hi0103data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0103/data/hi0103cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0103/data/hi0103cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: hi0103&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: hi0103&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "https://stage.loc.gov/pictures/search/?q=drawing: hi0103&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: hi0103&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.hi0103data/",
+        "http://www.loc.gov/resource/hhh.hi0103cap/",
+        "http://www.loc.gov/resource/hhh.hi0103.sheet/",
+        "http://www.loc.gov/resource/hhh.hi0103.photos/",
+        "http://www.loc.gov/resource/hhh.hi0103.photos",
+        "http://www.loc.gov/resource/hhh.hi0103.color.361564c",
+        "http://www.loc.gov/resource/hhh.hi0103.color.361565c",
+        "http://www.loc.gov/resource/hhh.hi0103.color.582223c",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058430p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058431p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058432p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058433p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058434p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058435p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058436p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058437p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058438p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058439p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058440p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058441p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058442p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058443p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058444p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058445p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058446p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058447p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058448p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058449p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058450p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058451p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058452p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058453p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058454p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058455p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058456p",
+        "http://www.loc.gov/resource/hhh.hi0103.photos.058457p",
+        "http://www.loc.gov/resource/hhh.hi0103.sheet",
+        "http://www.loc.gov/resource/hhh.hi0103.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.hi0103.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.hi0103.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.hi0103.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.hi0103.sheet.00005a",
+        "http://www.loc.gov/resource/hhh.hi0103.sheet.00006a",
+        "http://www.loc.gov/resource/hhh.hi0103.sheet.00007a",
+        "http://www.loc.gov/resource/hhh.hi0103.sheet.00008a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "archdiocese of hawaii",
+        "hawaii board of leper hospitals and settlement",
+        "lockett, dana",
+        "bertrand, victorin",
+        "kalaupapa national historical park",
+        "deveuster, joseph",
+        "hawaii board of health",
+        "father damien",
+        "davidson, paul",
+        "de sousa, daniel",
+        "historic american buildings survey",
+        "pierce, ryan",
+        "davidson, lisa pfueller",
+        "boucher, jack e.",
+        "dutton, joseph",
+        "mcpartland, mary",
+        "croteau, todd a."
+      ],
+      "description": [
+        "Photo(s): 28 | Color Transparencies: 3 | Measured Drawing(s): 8 | Data Page(s): 22 | Photo Caption Page(s): 4"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T20:17:47.682Z",
+      "group": [
+        "hh-2",
+        "habshaer-group-2"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/hi0103/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0103/color/361564c_150px.jpg#h=107&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0103/color/361564cr.jpg#h=459&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0103/color/361564cv.jpg#h=734&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        21.177118,
+        -156.948298
+      ],
+      "location": [
+        "hawaii",
+        "kalaupapa",
+        "kalawao county"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -156.948298,
+        21.177118
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "american memory",
+        "prints and photographs division"
+      ],
+      "score": 21.83659,
+      "shelf_id": "HABS HI,3-KALA.V,10-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "l-plan buildings",
+        "porticoes (porches)",
+        "religions",
+        "pargets",
+        "masonry (building materials)",
+        "volcanic rock",
+        "gothic revival architectural elements",
+        "lancet windows",
+        "stucco",
+        "quarantines",
+        "catholic churches",
+        "bell towers",
+        "wood structural frames"
+      ],
+      "timestamp": "2025-01-13T20:26:37.861Z",
+      "title": "St. Philomena Roman Catholic Church, Moloka'i Island, Kalaupapa, Kalawao County, HI",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/hi0103/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/hi0104/",
+        "http://www.loc.gov/item/hi0104/",
+        "http://www.loc.gov/pictures/item/hi0104/",
+        "https://www.loc.gov/pictures/collection/hh/item/hi0104/",
+        "http://www.loc.gov/pictures/collection/hh/item/hi0104/",
+        "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0104/data/hi0104data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0104/data/hi0104data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0104/data/hi0104cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0104/data/hi0104cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: hi0104&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: hi0104&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.hi0104data/",
+        "http://www.loc.gov/resource/hhh.hi0104cap/",
+        "http://www.loc.gov/resource/hhh.hi0104.photos/",
+        "http://www.loc.gov/resource/hhh.hi0104.photos",
+        "http://www.loc.gov/resource/hhh.hi0104.color.582294c",
+        "http://www.loc.gov/resource/hhh.hi0104.photos.058488p",
+        "http://www.loc.gov/resource/hhh.hi0104.photos.058489p",
+        "http://www.loc.gov/resource/hhh.hi0104.photos.058490p",
+        "http://www.loc.gov/resource/hhh.hi0104.photos.058491p",
+        "http://www.loc.gov/resource/hhh.hi0104.photos.058492p",
+        "http://www.loc.gov/resource/hhh.hi0104.photos.058493p",
+        "http://www.loc.gov/resource/hhh.hi0104.photos.058494p",
+        "http://www.loc.gov/resource/hhh.hi0104.photos.058495p",
+        "http://www.loc.gov/resource/hhh.hi0104.photos.058496p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "boucher, jack e.",
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 9 | Color Transparencies: 1 | Photo Caption Page(s): 2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T20:17:44.223Z",
+      "group": [
+        "hh-2",
+        "habshaer-group-2"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/hi0104/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0104/color/582294c_150px.jpg#h=150&w=107",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0104/color/582294cr.jpg#h=640&w=458",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0104/color/582294cv.jpg#h=1024&w=732"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        21.180966,
+        -156.952004
+      ],
+      "location": [
+        "hawaii",
+        "kalaupapa",
+        "kalawao county"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -156.952004,
+        21.180966
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "american memory",
+        "prints and photographs division"
+      ],
+      "score": 21.83659,
+      "shelf_id": "HABS HI,3-KALA.V,9-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "protestant churches",
+        "religions"
+      ],
+      "timestamp": "2025-01-13T20:26:37.861Z",
+      "title": "Siloama Protestant Church, Moloka'i Island, Kalaupapa, Kalawao County, HI",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/hi0104/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/hi0106/",
+        "http://www.loc.gov/item/hi0106/",
+        "http://www.loc.gov/pictures/item/hi0106/",
+        "https://www.loc.gov/pictures/collection/hh/item/hi0106/",
+        "http://www.loc.gov/pictures/collection/hh/item/hi0106/",
+        "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0106/data/hi0106data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0106/data/hi0106data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0106/data/hi0106cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0106/data/hi0106cap.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=photograph: hi0106&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov:8081/pictures/search/?q=photograph: hi0106&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.hi0106data/",
+        "http://www.loc.gov/resource/hhh.hi0106cap/",
+        "http://www.loc.gov/resource/hhh.hi0106.photos/",
+        "http://www.loc.gov/resource/hhh.hi0106.photos",
+        "http://www.loc.gov/resource/hhh.hi0106.photos.305140p",
+        "http://www.loc.gov/resource/hhh.hi0106.photos.305141p",
+        "http://www.loc.gov/resource/hhh.hi0106.photos.305142p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 3 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T20:18:42.205Z",
+      "group": [
+        "hh-2",
+        "habshaer-group-2"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/hi0106/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0106/photos/305140p_150px.jpg#h=107&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0106/photos/305140pr.jpg#h=457&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0106/photos/305140pv.jpg#h=732&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "hawaii",
+        "kalaupapa",
+        "kalawao county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "american memory",
+        "prints and photographs division"
+      ],
+      "score": 21.83659,
+      "shelf_id": "HABS HI,24-KALA,30-",
+      "site": [
+        "pictures"
+      ],
+      "timestamp": "2025-01-13T20:26:37.861Z",
+      "title": "Paschoal Craft Building, Moloka'i Island, Kalaupapa, Kalawao County, HI",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/hi0106/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/hi0107/",
+        "http://www.loc.gov/item/hi0107/",
+        "http://www.loc.gov/pictures/item/hi0107/",
+        "https://www.loc.gov/pictures/collection/hh/item/hi0107/",
+        "http://www.loc.gov/pictures/collection/hh/item/hi0107/",
+        "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0107/data/hi0107data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0107/data/hi0107data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0107/data/hi0107cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/hi/hi0100/hi0107/data/hi0107cap.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=photograph: hi0107&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov:8081/pictures/search/?q=photograph: hi0107&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.hi0107data/",
+        "http://www.loc.gov/resource/hhh.hi0107cap/",
+        "http://www.loc.gov/resource/hhh.hi0107.photos/",
+        "http://www.loc.gov/resource/hhh.hi0107.photos",
+        "http://www.loc.gov/resource/hhh.hi0107.color.361566c",
+        "http://www.loc.gov/resource/hhh.hi0107.photos.058406p",
+        "http://www.loc.gov/resource/hhh.hi0107.photos.058407p",
+        "http://www.loc.gov/resource/hhh.hi0107.photos.058408p",
+        "http://www.loc.gov/resource/hhh.hi0107.photos.058409p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 4 | Color Transparencies: 1 | Photo Caption Page(s): 2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T20:18:42.205Z",
+      "group": [
+        "hh-2",
+        "habshaer-group-2"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/hi0107/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0107/color/361566c_150px.jpg#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0107/color/361566cr.jpg#h=459&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0107/color/361566cv.jpg#h=734&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "hawaii",
+        "kalaupapa",
+        "kalawao county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "american memory",
+        "prints and photographs division"
+      ],
+      "score": 21.83659,
+      "shelf_id": "HABS HI,3-KALA,50-A-",
+      "site": [
+        "pictures"
+      ],
+      "timestamp": "2025-01-13T20:26:37.861Z",
+      "title": "Visitor Quarters, Visitor-Patient Meeting Hall, Moloka'i Island, Kalaupapa, Kalawao County, HI",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/hi0107/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_shim": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "hh-2",
+      "habshaer-group-2",
+      "paprika-law",
+      "afccal",
+      "american-english-dialect-recordings",
+      "cms",
+      "managed-content"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "hhh.hi0135.photos",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.8277902603149414,
+    "embed": [],
+    "embed!": [],
+    "error_response_status": null,
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/hhh.hi0135.photos",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/hhh.hi0135.photos?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1794587410.1085315,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 17897504,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/hi/hi0100/hi0135/photos/058276pu.tif",
+      "width": 0
+    },
+    {
+      "height": 107,
+      "levels": 1,
+      "mimetype": "image/jpg",
+      "size": 5305,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0135/photos/058276p_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 458,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 66727,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0135/photos/058276pr.jpg",
+      "width": 640
+    },
+    {
+      "height": 733,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 167207,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0135/photos/058276pv.jpg",
+      "width": 1024
+    },
+    {
+      "aka": "https://www.loc.gov/resource/hhh.hi0135.photos.058276p",
+      "mimetype": "application/json",
+      "title": "1.  GENERAL VIEW FROM NORTHWEST - Mother Marianne Library, Moloka'i Island, Kalaupapa, Kalawao County, HI",
+      "use": "caption"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=hi0135&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/law.eg19910523_00/",
+        "https://hdl.loc.gov/loc.law/llscd.eg19910523_00",
+        "http://www.loc.gov/item/eg19910523_00/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "government of the republic of egypt"
+      ],
+      "date": "1991-05-23",
+      "dates": [
+        "1991-05-23"
+      ],
+      "description": [
+        ""
+      ],
+      "digitized": true,
+      "extract_timestamp": "2026-09-09T12:24:22.883Z",
+      "group": [
+        "paprika-law"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/eg19910523_00/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:law:eg19910523_00:eg19910523_00/full/pct:25/0/default.jpg"
+      ],
+      "index": 1,
+      "language": [
+        "arabic"
+      ],
+      "location": [
+        "egypt"
+      ],
+      "mime_type": [
+        "application/pdf"
+      ],
+      "number": [
+        "http://www.loc.gov/resource/llegypt.eg19910523_00"
+      ],
+      "online_format": [
+        "pdf"
+      ],
+      "original_format": [
+        "periodical"
+      ],
+      "other_title": [
+        "Official title: al-Jari\u00cc\u201edah al-rasmi\u00cc\u201eyah; Jumhu\u00cc\u201eri\u00cc\u201eyat Mis\u00cc\u00a3r al-\u00ca\u00bbArabi\u00cc\u201eyah, Riya\u00cc\u201esat al-Jumhu\u00cc\u201eri\u00cc\u201eyah"
+      ],
+      "partof": [
+        "law library of congress",
+        "foreign legal gazettes in the law library of congress",
+        "egypt legal gazettes"
+      ],
+      "score": 10.266525,
+      "shelf_id": "KRM7.E392",
+      "subject": [
+        "international affairs",
+        "periodical",
+        "northern africa",
+        "united nations educational, scientific and cultural organization (u.n.e.s.c.o.)",
+        "egypt",
+        "arts and culture",
+        "legal notices",
+        "world bank",
+        "legal gazettes",
+        "western asia",
+        "law",
+        "international agreements",
+        "treaties and international agreements",
+        "law library",
+        "syria",
+        "libraries"
+      ],
+      "timestamp": "2026-09-09T12:53:33.556Z",
+      "title": "The Arab Republic of Egypt Presidency's Official Gazette; v. 34/ no. 21",
+      "type": [
+        "periodical"
+      ],
+      "url": "https://www.loc.gov/item/eg19910523_00/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/afccal000077/",
+        "https://hdl.loc.gov/loc.afc/afc1986022.sr11a02",
+        "http://www.loc.gov/resource/afc1986022.afc1986022_sr11a02/",
+        "http://www.loc.gov/item/afc1986022.afc1986022_sr11a02/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "little, david",
+        "garrelick, renee"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-02T16:29:57.734Z",
+      "group": [
+        "afccal",
+        "american-english-dialect-recordings"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/afccal000077/",
+      "image_url": [],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "massachusetts",
+        "concord",
+        "united states"
+      ],
+      "mime_type": [
+        "audio/wav",
+        "application/x-audio"
+      ],
+      "online_format": [
+        "audio"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "american english dialect recordings: the center for applied linguistics collection",
+        "american folklife center",
+        "center for applied linguistics collection",
+        "american memory"
+      ],
+      "score": 7.871915,
+      "shelf_id": "AFC 1986/022:  AFS 24,309 a02",
+      "subject": [
+        "social life and customs",
+        "family",
+        "concord (mass.)",
+        "massachusettes",
+        "historians",
+        "social circle in concord",
+        "architects",
+        "english language",
+        "history, local",
+        "libraries",
+        "men, white",
+        "massachusetts",
+        "book thefts",
+        "dialects",
+        "interviews",
+        "buildings",
+        "oral histories",
+        "concord",
+        "language",
+        "history"
+      ],
+      "timestamp": "2023-03-10T20:59:17.490Z",
+      "title": "Oral history with 64 year old white male, Concord, Massachusetts",
+      "type": [
+        "sound recording"
+      ],
+      "url": "https://www.loc.gov/item/afccal000077/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/afccal000466/",
+        "https://hdl.loc.gov/loc.afc/afc1986022.ms1902",
+        "http://www.loc.gov/resource/afc1986022.afc1986022_ms1902/",
+        "http://www.loc.gov/item/afc1986022.afc1986022_ms1902/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "little, david",
+        "garrelick, renee"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-02T16:32:18.006Z",
+      "group": [
+        "afccal",
+        "american-english-dialect-recordings"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/afccal000466/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc1986022:afc1986022_ms1902:0001/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc1986022:afc1986022_ms1902:0001/full/pct:12.5/0/default.jpg#h=412&w=288",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc1986022:afc1986022_ms1902:0001/full/pct:25/0/default.jpg#h=825&w=577",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc1986022:afc1986022_ms1902:0001/full/pct:50/0/default.jpg#h=1650&w=1154",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc1986022:afc1986022_ms1902:0001/full/pct:100/0/default.jpg#h=3300&w=2308"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "massachusetts",
+        "concord",
+        "united states"
+      ],
+      "mime_type": [
+        "application/xml",
+        "text/xml",
+        "application/pdf",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "online text",
+        "pdf",
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "american english dialect recordings: the center for applied linguistics collection",
+        "american folklife center",
+        "center for applied linguistics collection",
+        "american memory"
+      ],
+      "score": 7.871915,
+      "shelf_id": "AFC 1986/022:  AFS 24,309, folder  19",
+      "subject": [
+        "social life and customs",
+        "family",
+        "concord (mass.)",
+        "transcripts",
+        "massachusettes",
+        "historians",
+        "social circle in concord",
+        "architects",
+        "english language",
+        "history, local",
+        "libraries",
+        "men, white",
+        "massachusetts",
+        "book thefts",
+        "dialects",
+        "interviews",
+        "buildings",
+        "oral histories",
+        "concord",
+        "language",
+        "history"
+      ],
+      "timestamp": "2023-03-10T21:00:24.085Z",
+      "title": "Oral history with 64 year old white male, Concord, Massachusetts (Transcript)",
+      "type": [
+        "Manuscript"
+      ],
+      "url": "https://www.loc.gov/item/afccal000466/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/related-resources/"
+      ],
+      "campaigns": [],
+      "description": [
+        "National Checklist America Preserved: A Checklist of Historic Buildings, Structures, and Sites Recorded by the Historic American Buildings Survey / Historic American Engineering Record. Washington, D.C.: Library of Congress Cataloging Distribution Service, 1995."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2026-11-13T07:10:41.958Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/related-resources/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/historic-american-buildings-landscapes-and-engineering-records/500_500.jpg"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 7.3584695,
+      "shelf_id": "~/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/related-resources/",
+      "site": [
+        "cms"
+      ],
+      "timestamp": "2026-11-13T08:46:05.035Z",
+      "title": "Related Resources | About this Collection | Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/related-resources/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/rights-and-access/"
+      ],
+      "campaigns": [],
+      "description": [
+        "The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2026-11-13T07:10:41.958Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/rights-and-access/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/historic-american-buildings-landscapes-and-engineering-records/500_500.jpg"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 7.3584695,
+      "shelf_id": "~/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/rights-and-access/",
+      "site": [
+        "cms"
+      ],
+      "timestamp": "2026-11-13T08:46:05.035Z",
+      "title": "Rights and Access | About this Collection | Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/rights-and-access/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/technical-information/"
+      ],
+      "campaigns": [],
+      "description": [
+        "Digitizing the Collection Data page images The data pages in the Historic American Building Survey/Historic American Engineering Record/Historic American Landscapes Survey (HABS/HAER/HALS) collections were captured at the Library as digital facsimile images by Systems Integration Group of Lanham, Maryland, using a Minolta PS3000 scanner, a device with an overhead camera design. A series of tests established that the typescripts (from the early period) and computer printouts (from later years) would be fully legible if reproduced as bitonal images with a spatial resolution of 200 dpi and this specification has been applied to the scanning. At 200 dpi, a typical 8.5x11-inch page yields an image of 1700x2200 pixels. The resulting images are saved in the TIFF (Tagged Image File Format, version 6.0) format and compressed with the lossless ITU Group IV algorithm and a typical file is about 35 kilobytes. These are referred to as the archival or master images."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2026-11-13T07:10:41.958Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/technical-information/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/historic-american-buildings-landscapes-and-engineering-records/500_500.jpg"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 7.3584695,
+      "shelf_id": "~/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/technical-information/",
+      "site": [
+        "cms"
+      ],
+      "timestamp": "2026-11-13T08:46:05.035Z",
+      "title": "Technical Information | About this Collection | Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/technical-information/"
+    }
+  ],
+  "reproductions": "<h3>If Digital Images Are Displaying</h3>\n\n<p>You can download online images yourself.  Alternatively, you can purchase copies of various types through Library of Congress Duplication Services.</p>\n\n<p>HABS/HAER/HALS materials have generally been scanned at high resolution that is suitable for most publication purposes (see <a href=\"/ppoc/hh/resources/digitizing.html\">Digitizing the Collection</a> for further details about the digital images).</p>\n\n<ul>\n<p>\n<li><strong>Photographs--</strong>All photographs are printed from digital files to preserve the fragile originals.\n</li>\n<ul>\n<li>Make note of the Call Number and Item Number that appear under the photograph in the multiple-image display (e.g., HAER, NY,52-BRIG,4-2).\n</li>\n<li>If possible, include a printout of the photograph.\n</li>\n</ul>\n</p>\n\n<p>\n<li><strong>Drawings--</strong>All drawings are printed from digital files to preserve the fragile originals.\n</li>\n<ul>\n<li>Make note of the Survey Number (e.g., HAER NY - 143) and Sheet Number (e.g., &quot;Sheet 1 of 4&quot;), which appear on the edge of the drawing. (NOTE: These numbers are visible in the Tiff &quot;Reference Image&quot; display.)\n</li>\n<li>If possible, include a printout of the drawing. \n</li>\n</ul>\n</p>\n\n<p>\n<li><strong>Data Pages</strong>\n</li>\n<ul>\n<li>Make note of the Call Number in the catalog record.\n</li>\n</ul>\n</p>\n</ul>\n\n<h3>If Digital Images Are Not Displaying</h3>\n\n<p>In the rare case that a digital image for HABS/HAER/HALS documentation is not displaying online, select images for reproduction through one of these methods:</p>\n<ul>\n<p>\n<li>Visit the Prints & Photographs Reading Room and request to view the group (general information about service in the reading room is available at: <a href=\"https://www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>). It is best to contact reference staff in advance (see: <a href=\"https://www.loc.gov/rr/print/address.html\">https://www.loc.gov/rr/print/address.html</a>) to make sure the material is on site.  OR\n</li>\n</p>\n\n<p>\n<li>P&amp;P reading room staff can provide up to 15 quick copies of items per calendar year (many original items in the holdings are too old or fragile to make such copies, but generally HABS/HAER/HALS materials are in good enough condition to be placed on photocopy machines). For assistance, see our <a href=\"https://www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page OR\n</li>\n</p>\n\n<p>\n<li>Hire a freelance researcher to do further selection for you (a list of researchers in available at: <a href=\"https://www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</li>\n</p>\n\n<p>\n<li>You can purchase copies of various types, including quick copies, through Library of Congress Duplication Services (price lists, contact information, and order forms for Library of Congress Duplication Services are available on the <a href=\"https://www.loc.gov/duplicationservices/\">Duplication Services Web site</a>):\n</li>\n</p>\n\n<ul>\n<li>Make note of the Call Number listed above. \n</li>\n<li>Look at the Medium field above. If it lists more than one item: \n</li>\n<ul>\n<li>The entire group can be ordered as photocopies or high-quality copies. \n</li>\n<li>All the items in a particular medium (e.g., all drawings, all photographs) can be ordered as photocopies or high-quality copies.   \n</li>\n</ul>\n</ul>\n</ul>",
+  "resource": {
+    "caption": "Photos from Survey HABS HI-101 ",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0135/photos/058276p_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/hhh.hi0135.photos"
+  },
+  "resources": [
+    {
+      "caption": "Photos from Survey HABS HI-101 ",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/hi/hi0100/hi0135/photos/058276p_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/hhh.hi0135.photos"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1794587410936,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/hhh.hi0135.photos/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/hhh.hi0135.photos/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/hhh.hi0135.photos/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/hhh.hi0135.photos/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/hhh.hi0135.photos/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/hhh.hi0135.photos/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/hhh.hi0135.photos/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/hhh.hi0135.photos/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/hhh.hi0135.photos/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/hhh.hi0135.photos/?fo=json&st=text"
+  }
+}

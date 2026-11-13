@@ -1,0 +1,1476 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "() <cite>Louisiana Industrial Institute and College Library with students reading</cite>. Louisiana Ruston,. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/93510022/.",
+    "chicago": "<cite>Louisiana Industrial Institute and College Library with students reading</cite>. Louisiana Ruston,. Photograph. https://www.loc.gov/item/93510022/.",
+    "mla": "<cite>Louisiana Industrial Institute and College Library with students reading</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/93510022/&gt;."
+  },
+  "item": {
+    "_version_": 1731716213102346240,
+    "access_restricted": true,
+    "aka": [
+      "https://www.loc.gov/pictures/item/93510022/",
+      "http://www.loc.gov/item/93510022/",
+      "http://www.loc.gov/pictures/item/93510022/",
+      "https://www.loc.gov/pictures/collection/cph/item/93510022/",
+      "http://www.loc.gov/pictures/collection/cph/item/93510022/",
+      "http://www.loc.gov/resource/cph.3b39859/",
+      "http://lccn.loc.gov/93510022",
+      "https://hdl.loc.gov/loc.pnp/cph.3b39859"
+    ],
+    "call_number": "SSF - Libraries--Louisiana--Ruston  <item> [P&P]",
+    "campaigns": [],
+    "control_number": "",
+    "created": "2016-04-21T02:12:05Z",
+    "created_published": [
+      "[between 1900 and 1920]"
+    ],
+    "created_published_date": "[between 1900 and 1920]",
+    "date": "1900-01-01",
+    "dates": [
+      {
+        "1900": "https://www.loc.gov/search/?dates=1900/1900&fo=json"
+      }
+    ],
+    "description": [
+      "1 photographic print."
+    ],
+    "digital_id": [
+      "cph 3b39859 //hdl.loc.gov/loc.pnp/cph.3b39859"
+    ],
+    "digitized": true,
+    "display_offsite": false,
+    "extract_timestamp": "2021-08-25T15:39:51.076Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/93510022/#cph",
+      "http://lccn.loc.gov/93510022#catalog-split-06"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Photographic prints--1900-1920."
+    ],
+    "genre": [
+      "Photographic prints--1900-1920"
+    ],
+    "group": [
+      "cph",
+      "catalog-split-06",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-06",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/93510022/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b39000/3b39800/3b39859_150px.jpg#h=106&w=150"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "SSF - Libraries--Louisiana--Ruston  <item> [P&P]",
+      "control_number": "93510022",
+      "created": "2016-04-21T02:12:05Z",
+      "created_published": "[between 1900 and 1920]",
+      "created_published_date": "[between 1900 and 1920]",
+      "date": "[between 1900 and 1920]",
+      "digital_id": [
+        "cph 3b39859 //hdl.loc.gov/loc.pnp/cph.3b39859"
+      ],
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1900-1920.&co=cph",
+          "title": "Photographic prints--1900-1920."
+        }
+      ],
+      "genre": [
+        "Photographic prints--1900-1920"
+      ],
+      "id": "93510022",
+      "link": "https://www.loc.gov/pictures/item/93510022/",
+      "location": [
+        "Louisiana--Ruston"
+      ],
+      "marc": "https://www.loc.gov/pictures/item/93510022/marc/",
+      "medium": [
+        "1 photographic print."
+      ],
+      "medium_brief": "1 photographic print.",
+      "mediums": [
+        "1 photographic print."
+      ],
+      "modified": "2016-04-21T02:12:10Z",
+      "notes": [
+        "No. 1028."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/93510022",
+        "https://www.loc.gov/item/11621270"
+      ],
+      "other_control_numbers": [
+        "11621270"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Louisiana--Ruston&co=cph",
+          "longitude": "",
+          "title": "Louisiana--Ruston"
+        }
+      ],
+      "reproduction_number": "LC-USZ62-93684 (b&w film copy neg.)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/cph.3b39859"
+      ],
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b39000/3b39800/3b39859_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b39000/3b39800/3b39859r.jpg",
+      "sort_date": "1900",
+      "source_created": "1993-07-30T00:00:00Z",
+      "source_modified": "2002-11-09T16:40:12Z",
+      "subject_headings": [
+        "Louisiana Polytechnic Institute--Facilities--Louisiana--Ruston--1900-1920.",
+        "Libraries--Louisiana--Ruston--1900-1920.",
+        "Reading rooms--Louisiana--Ruston--1900-1920.",
+        "Women--Education--Louisiana--Ruston--1900-1920.",
+        "Louisiana--Ruston"
+      ],
+      "subjects": [
+        "Louisiana Polytechnic Institute--Facilities--Louisiana--Ruston--1900-1920",
+        "Libraries--Louisiana--Ruston--1900-1920",
+        "Reading rooms--Louisiana--Ruston--1900-1920",
+        "Women--Education--Louisiana--Ruston--1900-1920"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b39000/3b39800/3b39859_150px.jpg",
+      "title": "[Louisiana Industrial Institute and College Library with students reading]"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "93510022",
+    "link": "https://www.loc.gov/pictures/item/93510022/",
+    "location": [
+      "louisiana",
+      "ruston"
+    ],
+    "locations": [
+      {
+        "louisiana": "https://www.loc.gov/search/?fa=location:louisiana&fo=json"
+      },
+      {
+        "ruston": "https://www.loc.gov/search/?fa=location:ruston&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/93510022/marc/",
+    "medium": [
+      "1 photographic print."
+    ],
+    "medium_brief": "1 photographic print.",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-21T02:12:10Z",
+    "notes": [
+      "No. 1028."
+    ],
+    "number": [
+      "http://www.loc.gov/item/93510022",
+      "http://www.loc.gov/item/11621270",
+      "93510022",
+      "2002-11-09t16:40:12"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/11621270",
+      "http://www.loc.gov/item/93510022"
+    ],
+    "number_lccn": [
+      "93510022"
+    ],
+    "number_source_modified": [
+      "2002-11-09t16:40:12"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "11621270"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/93510022/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/93510022/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/93510022/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 110475,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 909832,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1163200,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1905479,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Louisiana--Ruston&co=cph",
+        "longitude": "",
+        "title": "Louisiana--Ruston"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=93510022&st=gallery&sb=call_number#focus"
+    },
+    "reproduction_number": "LC-USZ62-93684 (b&w film copy neg.)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/cph.3b39859"
+    ],
+    "resources": [
+      {
+        "caption": "b&w film copy neg.",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b39000/3b39800/3b39859_150px.jpg",
+        "url": "https://www.loc.gov/resource/cph.3b39859/"
+      }
+    ],
+    "rights": [],
+    "score": 19.47337,
+    "shard": "00",
+    "shelf_id": "SSF - Libraries--Louisiana--Ruston  <item> [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1900",
+    "source_created": "1993-07-30T00:00:00Z",
+    "source_modified": "2002-11-09T16:40:12Z",
+    "subject": [
+      "louisiana polytechnic institute",
+      "women",
+      "photographic prints",
+      "libraries",
+      "facilities",
+      "education",
+      "ruston",
+      "reading rooms",
+      "louisiana"
+    ],
+    "subject_headings": [
+      "Louisiana Polytechnic Institute--Facilities--Louisiana--Ruston--1900-1920",
+      "Libraries--Louisiana--Ruston--1900-1920",
+      "Reading rooms--Louisiana--Ruston--1900-1920",
+      "Women--Education--Louisiana--Ruston--1900-1920"
+    ],
+    "subjects": [
+      {
+        "education": "https://www.loc.gov/search/?fa=subject:education&fo=json"
+      },
+      {
+        "facilities": "https://www.loc.gov/search/?fa=subject:facilities&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "louisiana": "https://www.loc.gov/search/?fa=subject:louisiana&fo=json"
+      },
+      {
+        "louisiana polytechnic institute": "https://www.loc.gov/search/?fa=subject:louisiana+polytechnic+institute&fo=json"
+      },
+      {
+        "photographic prints": "https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json"
+      },
+      {
+        "reading rooms": "https://www.loc.gov/search/?fa=subject:reading+rooms&fo=json"
+      },
+      {
+        "ruston": "https://www.loc.gov/search/?fa=subject:ruston&fo=json"
+      },
+      {
+        "women": "https://www.loc.gov/search/?fa=subject:women&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b39000/3b39800/3b39859_150px.jpg",
+    "timestamp": "2022-05-02T12:07:55.507Z",
+    "title": "[Louisiana Industrial Institute and College Library with students reading]",
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/93510022/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2012647927/",
+        "http://www.loc.gov/item/2012647927/",
+        "http://www.loc.gov/pictures/item/2012647927/",
+        "https://www.loc.gov/pictures/collection/cph/item/2012647927/",
+        "http://www.loc.gov/pictures/collection/cph/item/2012647927/",
+        "http://www.loc.gov/resource/cph.3a39254/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a39254",
+        "http://lccn.loc.gov/2012647927"
+      ],
+      "campaigns": [],
+      "date": "1910-01-01",
+      "dates": [
+        "1910"
+      ],
+      "description": [
+        "1 photographic print. | Photograph shows seven young women in laboratory with instructor."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:09:12.624Z",
+      "group": [
+        "cph",
+        "catalog-split-08",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012647927/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39200/3a39254_150px.jpg#h=111&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39200/3a39254t.gif#h=111&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39200/3a39254r.jpg#h=475&w=640"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "louisiana",
+        "ruston"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17388214",
+        "2012647927",
+        "2012-07-16t15:56:16"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 48.91348,
+      "shelf_id": "SSF - Laboratories [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "louisiana polytechnic institute",
+        "women",
+        "students",
+        "photographic prints",
+        "ruston",
+        "laboratories",
+        "louisiana"
+      ],
+      "timestamp": "2022-05-02T06:07:08.345Z",
+      "title": "Louisiana. Ruston. Louisiana Industrial Institute and College biological laboratory",
+      "url": "https://www.loc.gov/item/2012647927/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://hdl.loc.gov/loc.pnp/ppmsca.02879",
+        "http://www.loc.gov/resource/ppmsca.02879/",
+        "http://www.loc.gov/item/2002719322/",
+        "http://lccn.loc.gov/2002719322",
+        "https://www.loc.gov/pictures/item/2002719322/",
+        "http://www.loc.gov/pictures/item/2002719322/",
+        "https://www.loc.gov/pictures/collection/cph/item/2002719322/",
+        "http://www.loc.gov/pictures/collection/cph/item/2002719322/"
+      ],
+      "campaigns": [],
+      "date": "1910-01-01",
+      "dates": [
+        "1910"
+      ],
+      "description": [
+        "Teacher Clara Davenport, standing, (front row, center) with her students."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T11:20:40.810Z",
+      "group": [
+        "awhbib",
+        "cph",
+        "catalog-split-12",
+        "catalog",
+        "american-womens-history",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2002719322/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02800/02879_150px.jpg#h=92&w=150"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "alaska",
+        "unalaska"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2002719322",
+        "http://www.loc.gov/item/12927604",
+        "2015-04-01t13:20:26"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american women: a gateway to library of congress resources for the study of women's history and culture in the united states",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 33.535347,
+      "shelf_id": "Item in MSS Coll.",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "family",
+        "teachers",
+        "employment",
+        "portrait photographs",
+        "alaska",
+        "women",
+        "students",
+        "group portraits",
+        "aleuts",
+        "unalaska",
+        "education",
+        "photographic prints",
+        "davenport, noah cleveland"
+      ],
+      "timestamp": "2022-12-10T04:46:15.761Z",
+      "title": "[Clara Ellen Tarte Davenport and her students in Unalaska]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2002719322/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2020744062/",
+        "http://www.loc.gov/item/2020744062/",
+        "http://www.loc.gov/pictures/item/2020744062/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2020744062/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2020744062/",
+        "https://hdl.loc.gov/loc.pnp/highsm.64669",
+        "https://hdl.loc.gov/loc.pnp/highsm.64669",
+        "http://www.loc.gov/resource/highsm.64669/",
+        "http://lccn.loc.gov/2020744062"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2020-01-01",
+      "dates": [
+        "2020"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T20:32:32.720Z",
+      "group": [
+        "highsm",
+        "catalog-split-11",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020744062/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/64600/64669_150px.jpg#h=77&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/64600/64669r.jpg#h=328&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/64600/64669v.jpg#h=525&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "ruston",
+        "united states",
+        "louisiana",
+        "lincoln parish"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/22130348",
+        "2020744062",
+        "2021-07-13t10:24:41",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "catalog",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 33.060062,
+      "shelf_id": "LC-DIG-highsm- 64669 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "digital photographs",
+        "louisiana tech university",
+        "color",
+        "lincoln parish",
+        "america",
+        "libraries",
+        "united states",
+        "ruston",
+        "prescott library",
+        "louisiana"
+      ],
+      "timestamp": "2022-04-23T16:09:34.801Z",
+      "title": "Prescott Library on the campus of Louisiana Tech University in Ruston, Louisiana",
+      "url": "https://www.loc.gov/item/2020744062/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007686638/",
+        "http://www.loc.gov/item/2007686638/",
+        "http://www.loc.gov/pictures/item/2007686638/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007686638/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007686638/",
+        "http://www.loc.gov/resource/ppmsca.15407/",
+        "http://lccn.loc.gov/2007686638",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15407"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "walker & gould"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-26T07:48:51.073Z",
+      "group": [
+        "cph",
+        "catalog-split-14",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007686638/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15407_150px.jpg#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15407t.gif#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15407r.jpg#h=496&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15407v.jpg#h=793&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "rhode island",
+        "providence"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/15100704",
+        "2008-12-29t14:30:32",
+        "2007686638"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 8908",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 29.591034,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "rhode island",
+        "photographic prints",
+        "libraries",
+        "providence",
+        "facilities",
+        "brown university",
+        "reading rooms"
+      ],
+      "timestamp": "2022-05-02T04:56:20.446Z",
+      "title": "[Robinson Hall reading room, Brown University Library, Providence, R.I.]",
+      "url": "https://www.loc.gov/item/2007686638/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007684787/",
+        "http://www.loc.gov/item/2007684787/",
+        "http://www.loc.gov/pictures/item/2007684787/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007684787/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007684787/",
+        "http://www.loc.gov/resource/ppmsca.15371/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15371",
+        "http://lccn.loc.gov/2007684787"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "furness, frank"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-26T07:46:27.711Z",
+      "group": [
+        "cph",
+        "catalog-split-01",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007684787/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15371_150px.jpg#h=124&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15371t.gif#h=124&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15371r.jpg#h=527&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15371v.jpg#h=843&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "philadelphia",
+        "pennsylvania"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007684787",
+        "2007-12-06t10:52:06",
+        "http://www.loc.gov/item/15033659"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 8908",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 29.591034,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "library",
+        "university of pennsylvania",
+        "pennsylvania",
+        "philadelphia",
+        "libraries",
+        "photographic prints",
+        "facilities",
+        "reading rooms"
+      ],
+      "timestamp": "2022-05-02T04:55:13.628Z",
+      "title": "[Reading room, University of Pennsylvania Library, Philadelphia, Pennsylvania]",
+      "url": "https://www.loc.gov/item/2007684787/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007684791/",
+        "http://www.loc.gov/item/2007684791/",
+        "http://www.loc.gov/pictures/item/2007684791/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007684791/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007684791/",
+        "http://www.loc.gov/resource/ppmsca.15375/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15375",
+        "http://lccn.loc.gov/2007684791"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "richardson, h. h. (henry hobson)"
+      ],
+      "date": "1886-01-01",
+      "dates": [
+        "1886"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T03:21:45.441Z",
+      "group": [
+        "cph",
+        "catalog-split-12",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007684791/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375t.gif#h=150&w=120",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375_150px.jpg#h=150&w=121",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375r.jpg#h=640&w=514",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375v.jpg#h=1024&w=823"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "vermont",
+        "burlington"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/15033905",
+        "2007684791",
+        "2017-01-27t10:43:25"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 8908",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 29.591034,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "vermont",
+        "university of vermont",
+        "photographic prints",
+        "libraries",
+        "facilities",
+        "reading rooms",
+        "burlington"
+      ],
+      "timestamp": "2022-05-02T04:55:13.628Z",
+      "title": "[Reading Room, Billings Memorial Library, University of Vermont, Burlington, Vermont]",
+      "url": "https://www.loc.gov/item/2007684791/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_shim": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-06",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-06",
+      "main-catalog",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "awhbib",
+      "catalog-split-12",
+      "american-womens-history",
+      "main-catalog-split-12",
+      "highsm",
+      "catalog-split-11",
+      "carol-m-highsmith",
+      "main-catalog-split-11",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "llntsb",
+      "national-transportation-safety-board-orders-petitions-and-decisions",
+      "usc2",
+      "us-code"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 25,
+    "delimiter": null,
+    "digital_id": null,
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 2.352898120880127,
+    "embed": [],
+    "embed!": [],
+    "error_response_status": null,
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": "93510022/",
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_partial": true,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/item/93510022/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/item/93510022/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "shards": [
+      "00"
+    ],
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "layouts/item/layout",
+    "timestamp": 1794603982.343915,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=93510022&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/1981-SE-4504/",
+        "http://www.loc.gov/resource/ntsb.1981-SE-4504/",
+        "http://www.loc.gov/item/ntsb.1981-SE-4504/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "national transportation safety board (n.t.s.b.)"
+      ],
+      "date": "1981-04-03",
+      "dates": [
+        "1981-04-03"
+      ],
+      "description": [
+        ""
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-09-29T15:36:32.456Z",
+      "group": [
+        "llntsb",
+        "national-transportation-safety-board-orders-petitions-and-decisions"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/1981-SE-4504/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ll:llntsb:1981-SE-4504:1981-SE-4504/full/pct:25/0/default.jpg"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "application/pdf"
+      ],
+      "number": [
+        "1981-se-4504"
+      ],
+      "online_format": [
+        "pdf"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "law library of congress",
+        "national transportation safety board orders, petitions, and decisions"
+      ],
+      "score": 14.705397,
+      "shelf_id": "Docket Number: SE-4504 Order Number: EA-1575 File Name: 1981-SE-4504",
+      "subject": [
+        "transportation and public works",
+        "webb, frank leonard",
+        "louisiana tech",
+        "collision hazards",
+        "law library",
+        "ruston",
+        "national transportation safety board (n.t.s.b.)",
+        "transportation safety and security",
+        "airplane pilots",
+        "parachutes",
+        "skydivers",
+        "civil aircrafts",
+        "louisiana",
+        "manuscripts",
+        "officials and employees",
+        "aviation and airports",
+        "parachute jumpers",
+        "dust bowl",
+        "low altitudes",
+        "law"
+      ],
+      "timestamp": "2025-09-29T15:43:46.585Z",
+      "title": "Order and Decision of Langhorne M. Bond, Administrator, Federal Aviation Administration, Complainant v. Frank Leonard Webb, Respondent",
+      "type": [
+        "manuscript"
+      ],
+      "url": "https://www.loc.gov/item/1981-SE-4504/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/1981-SE-4772/",
+        "http://www.loc.gov/resource/ntsb.1981-SE-4772/",
+        "http://www.loc.gov/item/ntsb.1981-SE-4772/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "national transportation safety board (n.t.s.b.)"
+      ],
+      "date": "1981-07-07",
+      "dates": [
+        "1981-07-07"
+      ],
+      "description": [
+        ""
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-09-29T15:36:32.456Z",
+      "group": [
+        "llntsb",
+        "national-transportation-safety-board-orders-petitions-and-decisions"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/1981-SE-4772/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ll:llntsb:1981-SE-4772:1981-SE-4772/full/pct:25/0/default.jpg"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "application/pdf"
+      ],
+      "number": [
+        "1981-se-4772"
+      ],
+      "online_format": [
+        "pdf"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "law library of congress",
+        "national transportation safety board orders, petitions, and decisions"
+      ],
+      "score": 14.705397,
+      "shelf_id": "Docket Number: SE-4772 Order Number: EA-1643 File Name: 1981-SE-4772",
+      "subject": [
+        "transportation and public works",
+        "manuscripts",
+        "officials and employees",
+        "parachute jumpers",
+        "national transportation safety board (n.t.s.b.)",
+        "transportation safety and security",
+        "airplane pilots",
+        "aviation and airports",
+        "parachutes",
+        "law library",
+        "ruston",
+        "deville, bruce",
+        "skydivers",
+        "law",
+        "civil aircrafts",
+        "weather",
+        "louisiana"
+      ],
+      "timestamp": "2025-09-29T15:43:46.585Z",
+      "title": "Order and Decision of J. Lynn Helms, Administrator, Federal Aviation Administration, Complainant v. Bruce Deville, Respondent",
+      "type": [
+        "manuscript"
+      ],
+      "url": "https://www.loc.gov/item/1981-SE-4772/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/1981-SE-5244/",
+        "http://www.loc.gov/resource/ntsb.1981-SE-5244/",
+        "http://www.loc.gov/item/ntsb.1981-SE-5244/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "national transportation safety board (n.t.s.b.)"
+      ],
+      "date": "1981-08-28",
+      "dates": [
+        "1981-08-28"
+      ],
+      "description": [
+        ""
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-09-29T15:36:32.668Z",
+      "group": [
+        "llntsb",
+        "national-transportation-safety-board-orders-petitions-and-decisions"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/1981-SE-5244/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ll:llntsb:1981-SE-5244:1981-SE-5244/full/pct:25/0/default.jpg"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "application/pdf"
+      ],
+      "number": [
+        "1981-se-5244"
+      ],
+      "online_format": [
+        "pdf"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "law library of congress",
+        "national transportation safety board orders, petitions, and decisions"
+      ],
+      "score": 14.705397,
+      "shelf_id": "Docket Number: SE-5244 Order Number: EA-1669 File Name: 1981-SE-5244",
+      "subject": [
+        "transportation and public works",
+        "manuscripts",
+        "officials and employees",
+        "rayville",
+        "national transportation safety board (n.t.s.b.)",
+        "alcoholic beverages",
+        "transportation safety and security",
+        "deville, john bruce",
+        "aviation and airports",
+        "law library",
+        "ruston",
+        "airworthiness airplane pilots",
+        "law",
+        "civil aircrafts",
+        "louisiana"
+      ],
+      "timestamp": "2025-09-29T15:44:21.686Z",
+      "title": "Order and Decision of J. Lynn Helms, Administrator, Federal Aviation Administration, Complainant v. John Bruce Deville, Respondent",
+      "type": [
+        "manuscript"
+      ],
+      "url": "https://www.loc.gov/item/1981-SE-5244/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/uscode1964-023020021/",
+        "http://www.loc.gov/resource/uscode.uscode1964-023020021/",
+        "http://www.loc.gov/item/uscode.uscode1964-023020021/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "u.s. congress"
+      ],
+      "date": "1964-01-01",
+      "dates": [
+        "1964"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-23T07:36:45.177Z",
+      "group": [
+        "usc2",
+        "us-code"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/uscode1964-023020021/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/ll/uscode/uscode1964-02302/uscode1964-023020021/uscode1964-023020021.gif#h=150&w=116"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "periodical"
+      ],
+      "partof": [
+        "law library of congress",
+        "u.s. code: title 20: education",
+        "u.s. code"
+      ],
+      "score": 12.785024,
+      "shelf_id": "Call Number: KF62 Series: Title 20: Education Edition: 1964",
+      "subject": [
+        "enacted law",
+        "government",
+        "government documents",
+        "u.s. code",
+        "periodical",
+        "statutes and legislation",
+        "legislative bodies",
+        "higher education",
+        "education",
+        "united states",
+        "congress",
+        "facilities",
+        "law library",
+        "law",
+        "bills and resolutions"
+      ],
+      "timestamp": "2022-03-30T04:49:47.411Z",
+      "title": "United States Code: Higher Education Facilities, 20 U.S.C. \u00a7\u00a7 711-758 (Suppl. 5 1964).",
+      "url": "https://www.loc.gov/item/uscode1964-023020021/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/uscode1964-023020024/",
+        "http://www.loc.gov/resource/uscode.uscode1964-023020024/",
+        "http://www.loc.gov/item/uscode.uscode1964-023020024/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "u.s. congress"
+      ],
+      "date": "1964-01-01",
+      "dates": [
+        "1964"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-23T07:36:45.177Z",
+      "group": [
+        "usc2",
+        "us-code"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/uscode1964-023020024/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/ll/uscode/uscode1964-02302/uscode1964-023020024/uscode1964-023020024.gif#h=150&w=116"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "periodical"
+      ],
+      "partof": [
+        "law library of congress",
+        "u.s. code: title 20: education",
+        "u.s. code"
+      ],
+      "score": 12.785024,
+      "shelf_id": "Call Number: KF62 Series: Title 20: Education Edition: 1964",
+      "subject": [
+        "education funding",
+        "enacted law",
+        "government",
+        "government documents",
+        "educational materials",
+        "u.s. code",
+        "periodical",
+        "statutes and legislation",
+        "grants",
+        "legislative bodies",
+        "education",
+        "united states",
+        "congress",
+        "facilities",
+        "services",
+        "law library",
+        "law",
+        "bills and resolutions"
+      ],
+      "timestamp": "2022-03-30T04:49:47.411Z",
+      "title": "United States Code: Grants for Educational Materials, Facilities and Services, and Strengthening of Educational Agencies, 20 U.S.C. \u00a7\u00a7 821-888 (Suppl. 5 1964).",
+      "url": "https://www.loc.gov/item/uscode1964-023020024/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/uscode1964-020020021/",
+        "http://www.loc.gov/resource/uscode.uscode1964-020020021/",
+        "http://www.loc.gov/item/uscode.uscode1964-020020021/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "u.s. congress"
+      ],
+      "date": "1964-01-01",
+      "dates": [
+        "1964"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-23T07:36:24.939Z",
+      "group": [
+        "usc2",
+        "us-code"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/uscode1964-020020021/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/ll/uscode/uscode1964-02002/uscode1964-020020021/uscode1964-020020021.gif#h=150&w=116"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "periodical"
+      ],
+      "partof": [
+        "law library of congress",
+        "u.s. code: title 20: education",
+        "u.s. code"
+      ],
+      "score": 12.785024,
+      "shelf_id": "Call Number: KF62 Series: Title 20: Education Edition: 1964",
+      "subject": [
+        "enacted law",
+        "government",
+        "government documents",
+        "u.s. code",
+        "periodical",
+        "statutes and legislation",
+        "legislative bodies",
+        "higher education",
+        "education",
+        "united states",
+        "congress",
+        "facilities",
+        "law library",
+        "law",
+        "bills and resolutions"
+      ],
+      "timestamp": "2022-03-30T04:44:25.461Z",
+      "title": "United States Code: Higher Education Facilities, 20 U.S.C. \u00a7\u00a7 711-758 (Suppl. 4 1964).",
+      "url": "https://www.loc.gov/item/uscode1964-020020021/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resources": [
+    {
+      "caption": "b&w film copy neg.",
+      "files": [],
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b39000/3b39800/3b39859_150px.jpg",
+      "pdf": "",
+      "url": "https://www.loc.gov/resource/cph.3b39859/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1794603984697,
+  "unrestricted": true
+}

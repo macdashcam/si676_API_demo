@@ -1,0 +1,1849 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 7.450789,
+      "title": "Happy 225th Birthday, Library of Congress!",
+      "url": "https://blogs.loc.gov/picturethis/2025/04/happy-225th-birthday-library-of-congress/"
+    }
+  ],
+  "cite_this": {
+    "apa": "Detroit Photographic Co. (ca. 1902) <cite>The Library of Congress, Washington</cite>. United States Washington D.C. Washington D.C, ca. 1902. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2008678216/.",
+    "chicago": "Detroit Photographic Co. <cite>The Library of Congress, Washington</cite>. United States Washington D.C. Washington D.C, ca. 1902. Photograph. https://www.loc.gov/item/2008678216/.",
+    "mla": "Detroit Photographic Co. <cite>The Library of Congress, Washington</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2008678216/&gt;."
+  },
+  "item": {
+    "_version_": 1851625324697092096,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2008678216/",
+      "http://www.loc.gov/item/2008678216/",
+      "http://www.loc.gov/pictures/item/2008678216/",
+      "https://www.loc.gov/pictures/collection/pgz/item/2008678216/",
+      "http://www.loc.gov/pictures/collection/pgz/item/2008678216/",
+      "https://hdl.loc.gov/loc.pnp/ppmsca.18016",
+      "https://hdl.loc.gov/loc.pnp/ppmsca.18016",
+      "http://www.loc.gov/resource/ppmsca.18016/",
+      "http://lccn.loc.gov/2008678216"
+    ],
+    "call_number": "LOT 13923, no. 208 [item] [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Detroit Photographic Co."
+    ],
+    "contributors": [
+      {
+        "detroit photographic co": "https://www.loc.gov/search/?fa=contributor:detroit+photographic+co&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2025-05-20T10:04:51Z",
+    "created_published": [
+      "c1902."
+    ],
+    "created_published_date": "c1902.",
+    "date": "1902",
+    "dates": [
+      {
+        "1902": "https://www.loc.gov/search/?dates=1902/1902&fo=json"
+      }
+    ],
+    "description": [
+      "1 photomechanical print : photochrom, color."
+    ],
+    "digital_id": [
+      "ppmsca 18016 https://hdl.loc.gov/loc.pnp/ppmsca.18016"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2025-07-05T12:34:59.740Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/pgz/item/2008678216/#pgz",
+      "http://lccn.loc.gov/2008678216#catalog-split-08"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Photochrom prints--Color."
+    ],
+    "genre": [
+      "Photochrom prints--Color"
+    ],
+    "group": [
+      "pgz",
+      "catalog-split-08",
+      "catalog",
+      "photochrom",
+      "main-catalog-split-08"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2008678216/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016_150px.jpg#h=111&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016t.gif#h=111&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016r.jpg#h=472&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016v.jpg#h=755&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LOT 13923, no. 208 [item] [P&P]",
+      "contributors": [
+        "Detroit Photographic Co"
+      ],
+      "control_number": "2008678216",
+      "created": "2025-05-20T10:04:51Z",
+      "created_published": "c1902.",
+      "created_published_date": "c1902.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Detroit%20Photographic%20Co.&co=pgz",
+          "role": "",
+          "title": "Detroit Photographic Co."
+        }
+      ],
+      "date": "c1902.",
+      "digital_id": [
+        "ppmsca 18016 https://hdl.loc.gov/loc.pnp/ppmsca.18016"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photochrom%20prints--Color.&co=pgz",
+          "title": "Photochrom prints--Color."
+        }
+      ],
+      "genre": [
+        "Photochrom prints--Color"
+      ],
+      "id": "2008678216",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2008678216/",
+      "marc": "https://www.loc.gov/pictures/item/2008678216/marc/",
+      "medium": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "medium_brief": "1 photomechanical print :",
+      "mediums": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "modified": "2025-05-20T10:04:52Z",
+      "notes": [
+        "Copyright 1902 by Detroit Photographic Co.",
+        "Title from item.",
+        "Title on inventory list: Library of Congress.",
+        "Similar image in LOT 12659 (LC-USZC4-12221).",
+        "Detroit Publishing Co. no. \"53209\".",
+        "Forms part of: Photochrom Print Collection.",
+        "More information about the Photochrom Print Collection is available at http://hdl.loc.gov/loc.pnp/pp.pgz"
+      ],
+      "other_control_numbers": [
+        "15317582"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Washington%20%28D.C.%29&co=pgz",
+          "longitude": "",
+          "title": "Washington (D.C.)"
+        }
+      ],
+      "raw_collections": [
+        "diof",
+        "flickrlocbday",
+        "flickrppoc",
+        "pgz",
+        "pp"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-ppmsca-18016 (digital file from original item)",
+      "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/ppmsca.18016"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016r.jpg",
+      "sort_date": "1902",
+      "source_created": "2008-06-05T00:00:00Z",
+      "source_modified": "2025-04-30T10:47:43Z",
+      "subject_headings": [
+        "Library of Congress Thomas Jefferson Building (Washington, D.C.)",
+        "Libraries.",
+        "United States--Washington (D.C.).",
+        "Washington (D.C.)"
+      ],
+      "subjects": [
+        "Library of Congress Thomas Jefferson Building (Washington, D.C.)",
+        "Libraries",
+        "United States--Washington (D.C.)"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016_150px.jpg",
+      "title": "The Library of Congress, Washington"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2008678216",
+    "link": "https://www.loc.gov/pictures/item/2008678216/",
+    "location": [
+      "united states",
+      "washington (d.c.)",
+      "washington d.c."
+    ],
+    "location_city": [
+      "washington (d.c.)"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "locations": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      },
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=location:washington+%28d.c.%29&fo=json"
+      },
+      {
+        "washington d.c.": "https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=location_city:washington+%28d.c.%29&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2008678216/marc/",
+    "medium": [
+      "1 photomechanical print : photochrom, color."
+    ],
+    "medium_brief": "1 photomechanical print :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2025-05-20T10:04:52Z",
+    "notes": [
+      "Copyright 1902 by Detroit Photographic Co.",
+      "Title from item.",
+      "Title on inventory list: Library of Congress.",
+      "Similar image in LOT 12659 (LC-USZC4-12221).",
+      "Detroit Publishing Co. no. \"53209\".",
+      "Forms part of: Photochrom Print Collection.",
+      "More information about the Photochrom Print Collection is available at http://hdl.loc.gov/loc.pnp/pp.pgz"
+    ],
+    "number": [
+      "2025-04-30t10:47:43",
+      "2008678216",
+      "http://www.loc.gov/item/15317582"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/15317582"
+    ],
+    "number_lccn": [
+      "2008678216"
+    ],
+    "number_source_modified": [
+      "2025-04-30t10:47:43"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "15317582"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2008678216/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2008678216/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2008678216/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 502,
+        "title": "lot 13923",
+        "url": "https://www.loc.gov/search/?fa=partof:lot+13923&fo=json"
+      },
+      {
+        "count": 7501,
+        "title": "photochrom prints",
+        "url": "https://www.loc.gov/collections/photochrom-prints/?fo=json"
+      },
+      {
+        "count": 1163200,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1905479,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Washington%20%28D.C.%29&co=pgz",
+        "longitude": "",
+        "title": "Washington (D.C.)"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "flickrlocbday",
+      "flickrppoc",
+      "pgz",
+      "pp"
+    ],
+    "related": {
+      "group_record": "https://www.loc.gov/pictures/search/?q=LOT 13923&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=pgz&pk=2008678216&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-ppmsca-18016 (digital file from original item)",
+    "reproductions": [],
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/ppmsca.18016"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original item",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016_150px.jpg",
+        "url": "https://www.loc.gov/resource/ppmsca.18016/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/244_phot.html\">Photochrom Collection - Rights and Restrictions Information</a> </p>\n\n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 18.889898,
+    "shard": "00",
+    "shelf_id": "LOT 13923, no. 208 [item] [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1902",
+    "source_created": "2008-06-05T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "photochrom prints",
+      "library of congress thomas jefferson building (washington, d.c.)",
+      "color",
+      "washington (d.c.)",
+      "united states",
+      "libraries"
+    ],
+    "subject_headings": [
+      "Library of Congress Thomas Jefferson Building (Washington, D.C.)",
+      "Libraries",
+      "United States--Washington (D.C.)"
+    ],
+    "subjects": [
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "library of congress thomas jefferson building (washington, d.c.)": "https://www.loc.gov/search/?fa=subject:library+of+congress+thomas+jefferson+building+%28washington,+d.c.%29&fo=json"
+      },
+      {
+        "photochrom prints": "https://www.loc.gov/search/?fa=subject:photochrom+prints&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      },
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016_150px.jpg",
+    "timestamp": "2025-12-16T01:11:55.745Z",
+    "title": "The Library of Congress, Washington",
+    "type": [
+      "still image"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2008678216/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2008679548/",
+        "http://www.loc.gov/item/2008679548/",
+        "http://www.loc.gov/pictures/item/2008679548/",
+        "https://www.loc.gov/pictures/collection/pgz/item/2008679548/",
+        "http://www.loc.gov/pictures/collection/pgz/item/2008679548/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.18148",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.18148",
+        "http://www.loc.gov/resource/ppmsca.18148/",
+        "http://lccn.loc.gov/2008679548",
+        "https://search.catalog.loc.gov/instances/545318f3-6182-5b7f-be1a-b3ebd8410098"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit photographic co"
+      ],
+      "date": "1901",
+      "dates": [
+        "1901"
+      ],
+      "description": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-12-16T01:11:20.477Z",
+      "group": [
+        "pgz",
+        "catalog-split-01",
+        "catalog",
+        "photochrom",
+        "main-catalog-split-01"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2008679548/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18100/18148_150px.jpg#h=117&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18100/18148t.gif#h=117&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18100/18148r.jpg#h=500&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18100/18148v.jpg#h=800&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "washington (d.c.)",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2008679548",
+        "2025-07-17t12:26:24",
+        "online resource",
+        "sheet"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "photochrom prints",
+        "lot 13923",
+        "prints and photographs division"
+      ],
+      "score": 50.178143,
+      "shelf_id": "LOT 13923, no. 340 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "endymion",
+        "photochrom prints",
+        "library of congress thomas jefferson building (washington, d.c.)",
+        "murals",
+        "color",
+        "washington (d.c.)",
+        "united states",
+        "libraries",
+        "greek mythological character)"
+      ],
+      "timestamp": "2025-12-16T01:11:55.745Z",
+      "title": "Endymion, Library of Congress",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2008679548/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/pgz/item/2008679710/",
+        "http://www.loc.gov/item/2008679710/",
+        "http://www.loc.gov/pictures/item/2008679710/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.18309",
+        "http://www.loc.gov/resource/ppmsca.18309/",
+        "http://lccn.loc.gov/2008679710"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit photographic co."
+      ],
+      "date": "1901-01-01",
+      "description": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:59:50.490Z",
+      "group": [
+        "pgz",
+        "catalog-split-08",
+        "catalog",
+        "photochrom",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2008679710/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18300/18309_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18300/18309t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18300/18309r.jpg#h=508&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18300/18309v.jpg#h=812&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        38.9361111111,
+        -77.0655555556
+      ],
+      "location": [
+        "united states",
+        "washington (d.c.)",
+        "washington d.c."
+      ],
+      "location_str": "",
+      "lonlat": [
+        -77.0655555556,
+        38.9361111111
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2008-12-16t14:21:29",
+        "2008679710"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "photochrom prints",
+        "catalog",
+        "lot 13923",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 43.432045,
+      "shelf_id": "LOT 13923, no. 501 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "photochrom prints",
+        "library of congress thomas jefferson building (washington, d.c.)",
+        "murals",
+        "color",
+        "washington (d.c.)",
+        "united states",
+        "libraries"
+      ],
+      "timestamp": "2022-04-30T22:23:16.466Z",
+      "title": "Library of Congress. \"Lyric Poetry\", by H.O. Walker",
+      "url": "https://www.loc.gov/item/2008679710/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/pgz/item/2008678234/",
+        "http://www.loc.gov/item/2008678234/",
+        "http://www.loc.gov/pictures/item/2008678234/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.18034",
+        "http://www.loc.gov/resource/ppmsca.18034/",
+        "http://lccn.loc.gov/2008678234"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit photographic co."
+      ],
+      "date": "1898-01-01",
+      "description": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:59:49.149Z",
+      "group": [
+        "pgz",
+        "catalog-split-08",
+        "catalog",
+        "photochrom",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2008678234/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18034_150px.jpg#h=114&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18034t.gif#h=114&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18034r.jpg#h=485&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18034v.jpg#h=775&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        38.9361111111,
+        -77.0655555556
+      ],
+      "location": [
+        "united states",
+        "washington (d.c.)",
+        "washington d.c."
+      ],
+      "location_str": "",
+      "lonlat": [
+        -77.0655555556,
+        38.9361111111
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2008-12-17t10:39:38",
+        "2008678234"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "photochrom prints",
+        "catalog",
+        "lot 13923",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 43.432045,
+      "shelf_id": "LOT 13923, no. 226 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "photochrom prints",
+        "library of congress thomas jefferson building (washington, d.c.)",
+        "facades",
+        "color",
+        "washington (d.c.)",
+        "united states",
+        "libraries"
+      ],
+      "timestamp": "2022-04-30T22:21:04.892Z",
+      "title": "Washington. West fa\u00e7ade Library of Congress",
+      "url": "https://www.loc.gov/item/2008678234/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/pgz/item/2008678235/",
+        "http://www.loc.gov/item/2008678235/",
+        "http://www.loc.gov/pictures/item/2008678235/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.18035",
+        "http://www.loc.gov/resource/ppmsca.18035/",
+        "http://lccn.loc.gov/2008678235"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit photographic co."
+      ],
+      "date": "1900-01-01",
+      "description": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:59:49.149Z",
+      "group": [
+        "pgz",
+        "catalog-split-09",
+        "catalog",
+        "photochrom",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2008678235/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18035_150px.jpg#h=115&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18035t.gif#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18035r.jpg#h=493&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18035v.jpg#h=788&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        38.9361111111,
+        -77.0655555556
+      ],
+      "location": [
+        "united states",
+        "washington (d.c.)",
+        "washington d.c."
+      ],
+      "location_str": "",
+      "lonlat": [
+        -77.0655555556,
+        38.9361111111
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2008-12-17t10:39:48",
+        "2008678235"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "photochrom prints",
+        "catalog",
+        "lot 13923",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 43.432045,
+      "shelf_id": "LOT 13923, no. 227 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "interiors",
+        "photochrom prints",
+        "library of congress thomas jefferson building (washington, d.c.)",
+        "color",
+        "washington (d.c.)",
+        "united states",
+        "libraries"
+      ],
+      "timestamp": "2022-04-30T22:21:04.892Z",
+      "title": "Library of Congress. South Hall, entrance pavilion",
+      "url": "https://www.loc.gov/item/2008678235/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/pgz/item/2008678276/",
+        "http://www.loc.gov/item/2008678276/",
+        "http://www.loc.gov/pictures/item/2008678276/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.18076",
+        "http://www.loc.gov/resource/ppmsca.18076/",
+        "http://lccn.loc.gov/2008678276"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit photographic co."
+      ],
+      "date": "1900-01-01",
+      "description": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:59:49.648Z",
+      "group": [
+        "pgz",
+        "catalog-split-14",
+        "catalog",
+        "photochrom",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2008678276/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18076_150px.jpg#h=150&w=118",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18076t.gif#h=150&w=118",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18076r.jpg#h=640&w=503",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18076v.jpg#h=1024&w=805"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        38.9361111111,
+        -77.0655555556
+      ],
+      "location": [
+        "united states",
+        "washington (d.c.)",
+        "washington d.c."
+      ],
+      "location_str": "",
+      "lonlat": [
+        -77.0655555556,
+        38.9361111111
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2008678276",
+        "2008-12-17t10:50:32"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "photochrom prints",
+        "catalog",
+        "lot 13923",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 43.432045,
+      "shelf_id": "LOT 13923, no. 268 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "interiors",
+        "architectural decorations & ornaments",
+        "photochrom prints",
+        "library of congress thomas jefferson building (washington, d.c.)",
+        "color",
+        "washington (d.c.)",
+        "stairhalls",
+        "united states",
+        "libraries"
+      ],
+      "timestamp": "2022-04-30T22:22:00.981Z",
+      "title": "Library of Congress, central stair hall",
+      "url": "https://www.loc.gov/item/2008678276/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/pgz/item/2008678277/",
+        "http://www.loc.gov/item/2008678277/",
+        "http://www.loc.gov/pictures/item/2008678277/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.18077",
+        "http://www.loc.gov/resource/ppmsca.18077/",
+        "http://lccn.loc.gov/2008678277"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit photographic co."
+      ],
+      "date": "1900-01-01",
+      "description": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:59:49.648Z",
+      "group": [
+        "pgz",
+        "catalog-split-15",
+        "catalog",
+        "photochrom",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2008678277/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18077_150px.jpg#h=150&w=118",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18077t.gif#h=150&w=118",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18077r.jpg#h=640&w=504",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18077v.jpg#h=1024&w=806"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        38.9361111111,
+        -77.0655555556
+      ],
+      "location": [
+        "united states",
+        "washington (d.c.)",
+        "washington d.c."
+      ],
+      "location_str": "",
+      "lonlat": [
+        -77.0655555556,
+        38.9361111111
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2008-12-17t10:50:43",
+        "2008678277"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "photochrom prints",
+        "catalog",
+        "lot 13923",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 43.432045,
+      "shelf_id": "LOT 13923, no. 269 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "interiors",
+        "architectural decorations & ornaments",
+        "photochrom prints",
+        "library of congress thomas jefferson building (washington, d.c.)",
+        "color",
+        "washington (d.c.)",
+        "united states",
+        "libraries",
+        "stairways"
+      ],
+      "timestamp": "2022-04-30T22:22:00.981Z",
+      "title": "Library of Congress, north staircase, central stair hall",
+      "url": "https://www.loc.gov/item/2008678277/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_shim": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "pgz",
+      "catalog-split-08",
+      "catalog",
+      "photochrom",
+      "main-catalog-split-08",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "main-catalog",
+      "catalog-split-09",
+      "main-catalog-split-09",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "ndnp/ncu",
+      "university-of-north-carolina-chapel-hill-library-awardee",
+      "catalog-split-10",
+      "main-catalog-split-10",
+      "paprika-gdc",
+      "gmd_lva.mar",
+      "library-of-virginia-maps",
+      "gmd/multimap",
+      "catalog-split-07",
+      "multimaps",
+      "main-catalog-split-07"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "ppmsca.18016",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 6.104144096374512,
+    "embed": [],
+    "embed!": [],
+    "error_response_status": null,
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/ppmsca.18016/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/ppmsca.18016/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1794587810.674168,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 120255240,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/ppmsca/18000/18016u.tif",
+      "width": 0
+    },
+    {
+      "height": 111,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 4923,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 111,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 14871,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016t.gif",
+      "width": 150
+    },
+    {
+      "height": 472,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 57163,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016r.jpg",
+      "width": 640
+    },
+    {
+      "height": 755,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 157480,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": "https://www.loc.gov/pictures/search/?q=LOT 13923&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=pgz&pk=2008678216&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn96027351/1868-01-01/ed-1/",
+        "http://www.loc.gov/resource/sn96027351/1868-01-01/ed-1/"
+      ],
+      "batch": [
+        "ncu_appling_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of north carolina at chapel hill library, chapel hill, nc"
+      ],
+      "date": "1868-01-01",
+      "dates": [
+        "1868-01-01"
+      ],
+      "description": [
+        "Washington, D.C."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-12T17:31:13.321Z",
+      "group": [
+        "ndnp/ncu",
+        "university-of-north-carolina-chapel-hill-library-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn96027351/1868-01-01/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:3.125/0/default.jpg#h=298&w=203",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:6.25/0/default.jpg#h=597&w=407",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:12.5/0/default.jpg#h=1194&w=815"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington",
+        "united states",
+        "washington d.c.",
+        "district of columbia"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn96027351",
+        "00332891613"
+      ],
+      "numeric_shelf_id": 186801011,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "national savings bank (washington, d.c.) 1868-18?? [online resource]"
+      ],
+      "publication_frequency": [
+        "monthly"
+      ],
+      "score": 18.850231,
+      "shelf_id": "sn96027351, 1868-01-01, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "newspapers",
+        "african americans",
+        "district of columbia",
+        "african american banks",
+        "washington (d.c.)",
+        "african american",
+        "washington",
+        "united states"
+      ],
+      "timestamp": "2023-08-12T19:43:38.893Z",
+      "title": "National savings bank (Washington, D.C.), January 1, 1868",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn96027351/1868-01-01/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/mm82029074",
+        "http://www.loc.gov/item/mm82029074/",
+        "https://search.catalog.loc.gov/instances/9e303280-88a2-5e6f-9b74-f633f5dab2c2",
+        "https://hdl.loc.gov/loc.mss/collmss.ms000001"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "first, edythe w.",
+        "library of congress. exhibits office",
+        "library of congress. stack and reader division",
+        "library of congress. staff advisory committee",
+        "sioussat, st. george l. (st. george leakin)",
+        "library of congress. american memory project",
+        "library of congress",
+        "library of congress. legislative reference service",
+        "mcfarland, marvin wilks",
+        "letters of delegates to congress (library of congress)",
+        "hilker, helen-anne",
+        "library of congress. war communications research unit",
+        "dewton, johannes l. (johannes leopold)",
+        "united states. congress. joint committee on the library",
+        "library of congress. keeper of the collections",
+        "european mission and cooperative acquisitions project (library of congress)",
+        "united states. supreme court",
+        "armed services technical information agency (u.s.)",
+        "library of congress. european law division",
+        "library of congress. local history and genealogy reading room",
+        "library of congress. descriptive cataloging division",
+        "library of congress. reading rooms",
+        "library of congress. public affairs office",
+        "library of congress. beneficiary association",
+        "library of congress. collections management division",
+        "welsh, william j. (william joseph)",
+        "library of congress. copyright office",
+        "library of congress. periodicals division",
+        "connor, rosalie",
+        "morrisey, marlene d.",
+        "committee for the protection of cultural and scientific resources (u.s.)",
+        "library of congress. serial division",
+        "ashley, frederick william",
+        "library of congress. national digital library program",
+        "library of congress. catalog division",
+        "avram, henriette d.",
+        "national library for the blind (u.s.)",
+        "library of congress. motion picture division",
+        "library of congress. poetry office",
+        "library of congress. marc development office",
+        "library of congress. office of the librarian",
+        "library of congress. science and technology division",
+        "plumb, milton m.",
+        "library of congress. geography and map division",
+        "library of congress. manuscript division",
+        "library of congress. orientalia division",
+        "national book festival (u.s.)",
+        "library of congress. reference department",
+        "hummel, arthur w. (arthur william)",
+        "croxton, fred",
+        "library of congress. serial & government publications division",
+        "library of congress. collections development office",
+        "library of congress. exchange and gift division",
+        "library of congress. rare book and special collections division",
+        "united states. permanent committee for the oliver wendell holmes devise",
+        "library of congress. law library",
+        "library of congress. order division",
+        "library of congress. processing department",
+        "library of congress. research services",
+        "library of congress. general reference and bibliography division",
+        "optical disk print pilot project (library of congress)",
+        "house of learning project (library of congress)",
+        "ristow, walter w. (walter william)",
+        "committee on scientific and cultural cooperation (u.s.)",
+        "national union catalog publication project (library of congress)",
+        "library of congress. information office"
+      ],
+      "description": [
+        "Collection of records documenting the activities, initiatives, and operation of the Library of Congress.  The records were created by the library from its founding in 1800 through 2015 and include correspondence and memoranda, ledgers and record books, imprints, photographs, recorded sound, electronic records, and other documents and formats."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-11-14T22:53:34.152Z",
+      "group": [
+        "catalog-split-10",
+        "catalog",
+        "main-catalog-split-10"
+      ],
+      "hassegments": false,
+      "id": "http://lccn.loc.gov/mm82029074",
+      "image_url": [],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "washington d.c."
+      ],
+      "number": [
+        "mm82029074",
+        "2025-09-12t17:24:36.700000"
+      ],
+      "original_format": [
+        "manuscript/mixed material",
+        "collection"
+      ],
+      "other_title": [
+        "LC archives",
+        "Library of Congress records"
+      ],
+      "partof": [
+        "catalog",
+        "manuscript division"
+      ],
+      "score": 18.101147,
+      "shelf_id": "http://lccn.loc.gov/mm82029074",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "an exhibition in the great hall and on the second floor of the thomas jefferson building",
+        "library of congress",
+        "collections",
+        "copyright",
+        "special collections",
+        "greater washington educational television association",
+        "funds and scholarships",
+        "reading promotion",
+        "collection development (libraries)",
+        "machine-readable bibliographic data",
+        "law libraries",
+        "library of congress from december 23",
+        "descriptive cataloging",
+        "books and reading",
+        "documents libraries",
+        "library reports",
+        "library directors",
+        "exhibition catalogs",
+        "manuscripts",
+        "united states",
+        "labor unions",
+        "library administration",
+        "intellectual cooperation",
+        "technical services (libraries)",
+        "automation",
+        "marc formats",
+        "american revolution bicentennial",
+        "science and technology libraries",
+        "world war",
+        "library web sites",
+        "archives",
+        "golf",
+        "library circulation and loans",
+        "library materials",
+        "rockefeller foundation",
+        "to december 7",
+        "map collections",
+        "reproduction",
+        "international cooperation",
+        "library resources",
+        "cataloging",
+        "research libraries",
+        "genealogical libraries",
+        "national librarians",
+        "tournaments",
+        "science",
+        "buildings",
+        "reference services (libraries)",
+        "motion picture film collections",
+        "supreme court",
+        "history",
+        "protection",
+        "acquisitions (libraries)",
+        "library administrators",
+        "public lands",
+        "library buildings",
+        "ten first street",
+        "union catalogs",
+        "library of congress thomas jefferson building (washington, d.c.)",
+        "archival materials",
+        "book coupons",
+        "library finance",
+        "southeast : congress builds a library",
+        "festivals",
+        "design and construction",
+        "awards",
+        "appropriations and expenditures",
+        "poets laureate",
+        "hilker, helen-anne",
+        "serials librarianship",
+        "libraries",
+        "public relations",
+        "national libraries",
+        "library employees",
+        "libraries and the blind",
+        "collection and preservation",
+        "unesco book coupons",
+        "cultural property",
+        "public buildings",
+        "digitization",
+        "officials and employees",
+        "rare book libraries",
+        "washington (d.c.)",
+        "aims and objectives",
+        "library exhibits",
+        "orientalia libraries",
+        "standards",
+        "exhibitions",
+        "national union catalog, pre- imprints"
+      ],
+      "timestamp": "2025-11-15T00:10:04.034Z",
+      "title": "Library of Congress archives, 1800-2015",
+      "type": [
+        "manuscript"
+      ],
+      "url": "//lccn.loc.gov/mm82029074"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/34008664",
+        "http://www.loc.gov/item/34008664/",
+        "https://search.catalog.loc.gov/instances/9ca3ec51-2b11-59f1-b632-9719ef8e5785",
+        "https://hdl.loc.gov/loc.gdc/gdclccn.34008664",
+        "http://www.loc.gov/resource/gdc.34008664/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress"
+      ],
+      "date": "1934",
+      "dates": [
+        "1934"
+      ],
+      "description": [
+        "\"The Library of Congress; chronology and statistics\": p. 15. At head of title: The Library of Congress. Also available in digital form on the Library of Congress Web site."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2026-07-16T06:48:37.747Z",
+      "group": [
+        "catalog-split-15",
+        "catalog",
+        "paprika-gdc",
+        "main-catalog-split-15"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/34008664/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:gdc:34008664:001/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/public:gdc:34008664:001/full/pct:12.5/0/default.jpg#h=283&w=196",
+        "https://tile.loc.gov/image-services/iiif/public:gdc:34008664:001/full/pct:25.0/0/default.jpg#h=567&w=393",
+        "https://tile.loc.gov/image-services/iiif/public:gdc:34008664:001/full/pct:50.0/0/default.jpg#h=1134&w=786",
+        "https://tile.loc.gov/image-services/iiif/public:gdc:34008664:001/full/pct:100.0/0/default.jpg#h=2268&w=1572"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c."
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "text/plain",
+        "application/json",
+        "application/pdf"
+      ],
+      "number": [
+        "2026-07-15t17:18:47.100000",
+        "11027087",
+        "34008664",
+        "http://www.loc.gov/resource/gdclccn.34008664"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "selected digitized books",
+        "catalog",
+        "general collections"
+      ],
+      "score": 14.296614,
+      "shelf_id": "Z733.U57 Z12 1934",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "guidebooks",
+        "library decoration",
+        "library of congress thomas jefferson building (washington, d.c.)",
+        "library of congress",
+        "buildings",
+        "library architecture",
+        "washington (d.c.)"
+      ],
+      "timestamp": "2026-07-16T15:05:12.368Z",
+      "title": "Certain objects of interest to visitors",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/34008664/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/glva01.lva00011/",
+        "http://www.loc.gov/item/lva0000011/",
+        "https://hdl.loc.gov/loc.ndlpcoop/glva01.lva00011"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "bowen & co.",
+        "united states. war dept. engineer bureau",
+        "united states. congress"
+      ],
+      "date": "1865-01-01",
+      "dates": [
+        "1865"
+      ],
+      "description": [
+        "Also shows rural householders' names, railroads, vegetation, marsh areas, and street pattern of Washington, D.C. and Alexandria. Covers Washington D.C. metropolitan area. In left upper margin: 39th Cong. 1st Sess.--Report of the Chief Engineer U.S.A. In right upper margin: No. 1. Includes note and coat of arms below title. Relief shown by hachures. Depths shown by soundings and isolines. This item is in the Map Collection of the Library of Virginia; please contact the Library's Archives Research Services department for more information. LC Civil War maps (2nd ed.), 686 Available also through the Library of Congress Web site as a raster image. July 1945, unknown source, gift, ALE."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-23T17:20:44.449Z",
+      "group": [
+        "gmd_lva.mar",
+        "library-of-virginia-maps"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/lva0000011/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmdlva/glva/glva01/lva00011.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmdlva/glva/glva01/lva00011.gif#h=110&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdlva:glva:glva01:lva00011/full/pct:12.5/0/default.jpg#h=930&w=1271",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdlva:glva:glva01:lva00011/full/pct:25/0/default.jpg#h=1860&w=2542"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "washington (d.c.)",
+        "washington metropolitan area",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2001-08-31t16:03:43",
+        "lva0000011"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "other_title": [
+        "Military map of N.E. Virginia"
+      ],
+      "partof": [
+        "civil war maps",
+        "american memory",
+        "military battles and campaigns",
+        "geography and map division"
+      ],
+      "score": 12.3578825,
+      "shelf_id": "G3851.S5 1865 .U52",
+      "site": [
+        "ammem"
+      ],
+      "subject": [
+        "washington metropolitan area",
+        "maps",
+        "landowners",
+        "fortification",
+        "washington (d.c.)",
+        "civil war",
+        "united states",
+        "history"
+      ],
+      "timestamp": "2022-04-30T03:06:42.687Z",
+      "title": "Extract of military map of N.E. Virginia showing forts and roads",
+      "url": "https://www.loc.gov/item/lva0000011/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/lva0000022/",
+        "https://hdl.loc.gov/loc.ndlpcoop/glva01.lva00022",
+        "http://www.loc.gov/resource/glva01.lva00022/"
+      ],
+      "campaigns": [],
+      "date": "1861-01-01",
+      "dates": [
+        "1861"
+      ],
+      "description": [
+        "Includes text. Inset: \"Port Royal and Tybee Island.\" Relief shown by hachures. Shows forts, batteries, and territory occupied by 8 Union divisions, extending from Washington to Virginia, ending at the north near Great Falls and southward to the mouth of the Accotink Creek. This item is in the Map Collection of the Library of Virginia; please contact the Library's Archives Research Services department for more information. Bosse, D. Civil War newspaper maps, 1353 Available also through the Library of Congress Web site as a raster image. Oct. 2001, J. Hart (1929), b, ALE."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-23T17:20:44.449Z",
+      "group": [
+        "gmd_lva.mar",
+        "library-of-virginia-maps"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/lva0000022/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmdlva/glva/glva01/lva00022.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmdlva/glva/glva01/lva00022.gif#h=209&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdlva:glva:glva01:lva00022/full/pct:12.5/0/default.jpg#h=1010&w=726",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdlva:glva:glva01:lva00022/full/pct:25/0/default.jpg#h=2020&w=1452"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "virginia",
+        "united states",
+        "washington (d.c.)",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "lva0000022",
+        "2003-03-17t08:55:35"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "other_title": [
+        "Map exhibiting the defences of the national capital and positions of the several divisions of the grand Union Army"
+      ],
+      "partof": [
+        "civil war maps",
+        "american memory",
+        "military battles and campaigns",
+        "geography and map division"
+      ],
+      "score": 12.3578825,
+      "shelf_id": "http://www.loc.gov/item/lva0000022/",
+      "site": [
+        "ammem"
+      ],
+      "subject": [
+        "maps",
+        "fortification",
+        "virginia",
+        "washington (d.c.)",
+        "civil war",
+        "united states",
+        "history"
+      ],
+      "timestamp": "2022-04-30T03:06:42.687Z",
+      "title": "The National lines before Washington : a map exhibiting the defences of the national capital and positions of the several divisions of the grand Union Army : supplement to the New-York times : New York, Saturday, December 7, 1861.",
+      "url": "https://www.loc.gov/item/lva0000022/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/89693301",
+        "http://www.loc.gov/item/89693301/",
+        "https://search.catalog.loc.gov/instances/ec2a5b09-35de-5bee-ac17-ff2d112ca675",
+        "https://hdl.loc.gov/loc.gmd/gmdsetmaps.89693301",
+        "http://www.loc.gov/resource/gmdsetmaps.89693301/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. national capital planning commission",
+        "greenhorne & o'mara"
+      ],
+      "date": "1981",
+      "dates": [
+        "1981"
+      ],
+      "description": [
+        "Photomaps. Some maps cover small areas outside the District of Columbia. Some maps have: Arlington Cemetery (special coverage). Maps discontinuously numbered: Sheet no. 5472 [thru] Sheet no. 6470. Some maps unnumbered. Some sheets also include blank area. Available also through the Library of Congress Web site as a raster image. DCP"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2026-05-09T13:59:56.591Z",
+      "group": [
+        "gmd/multimap",
+        "catalog-split-07",
+        "catalog",
+        "multimaps",
+        "main-catalog-split-07"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/89693301/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:89:69:33:01:89693301:cs000001/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:89:69:33:01:89693301:cs000001/full/pct:12.5/0/default.jpg#h=771&w=667",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdsetmaps:89:69:33:01:89693301:cs000001/full/pct:25/0/default.jpg#h=1543&w=1334"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "district of columbia",
+        "united states",
+        "washington (d.c.)",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "89693301",
+        "2026-05-01t15:50:07.900000",
+        "sheet"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "cities and towns",
+        "catalog",
+        "set maps",
+        "geography and map division"
+      ],
+      "score": 12.3578825,
+      "shelf_id": "G3851.A4 s2 .G7",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "district of columbia",
+        "remote-sensing maps",
+        "maps",
+        "arlington national cemetery (arlington, va.)",
+        "washington (d.c.)",
+        "united states"
+      ],
+      "timestamp": "2026-05-09T14:00:35.913Z",
+      "title": "Washington D.C.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/89693301/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"https://www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original item",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/ppmsca.18016/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original item",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/18000/18016_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/ppmsca.18016/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1794587816778,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/ppmsca.18016/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/ppmsca.18016/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/ppmsca.18016/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/ppmsca.18016/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/ppmsca.18016/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/ppmsca.18016/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/ppmsca.18016/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/ppmsca.18016/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/ppmsca.18016/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/ppmsca.18016/?fo=json&st=text"
+  }
+}
